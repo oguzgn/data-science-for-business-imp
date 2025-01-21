@@ -1,0 +1,6001 @@
+[{
+  "user_id": "80AC2C2C2A-E2A-ED6",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001599917",
+  "operating_system": "ios"
+}, {
+  "user_id": "69441a1ae47ee47ec0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001599878",
+  "operating_system": "android"
+}, {
+  "user_id": "80AC2C2C2A-E2A-ED6",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001599825",
+  "operating_system": "ios"
+}, {
+  "user_id": "80AC2C2C2A-E2A-ED6",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001599785",
+  "operating_system": "ios"
+}, {
+  "user_id": "9c9d2727b3d5b3d5b1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001599348",
+  "operating_system": "android"
+}, {
+  "user_id": "69441a1ae47ee47ec0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001598803",
+  "operating_system": "android"
+}, {
+  "user_id": "69441a1ae47ee47ec0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001597915",
+  "operating_system": "android"
+}, {
+  "user_id": "9c9d2727b3d5b3d5b1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001597721",
+  "operating_system": "android"
+}, {
+  "user_id": "d51d070785068506b1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001595673",
+  "operating_system": "android"
+}, {
+  "user_id": "e4d76969a517a517af",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001594721",
+  "operating_system": "android"
+}, {
+  "user_id": "d51d070785068506b1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001594088",
+  "operating_system": "android"
+}, {
+  "user_id": "e4d76969a517a517af",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001593623",
+  "operating_system": "android"
+}, {
+  "user_id": "e4d76969a517a517af",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001592662",
+  "operating_system": "android"
+}, {
+  "user_id": "d51d070785068506b1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001592023",
+  "operating_system": "android"
+}, {
+  "user_id": "28814a4a4b9e4b9e6f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001591382",
+  "operating_system": "android"
+}, {
+  "user_id": "28814a4a4b9e4b9e6f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001590933",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8aa7a71d6e1d6e2a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001590680",
+  "operating_system": "android"
+}, {
+  "user_id": "28814a4a4b9e4b9e6f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001590434",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8aa7a71d6e1d6e2a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001589763",
+  "operating_system": "android"
+}, {
+  "user_id": "afc0838331113111e5",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001589329",
+  "operating_system": "android"
+}, {
+  "user_id": "afc0838331113111e5",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001588877",
+  "operating_system": "android"
+}, {
+  "user_id": "afc0838331113111e5",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001588734",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8aa7a71d6e1d6e2a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001586223",
+  "operating_system": "android"
+}, {
+  "user_id": "65285b5ba98da98db9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001586159",
+  "operating_system": "android"
+}, {
+  "user_id": "65285b5ba98da98db9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001585776",
+  "operating_system": "android"
+}, {
+  "user_id": "84596060ca8dca8d17",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001582804",
+  "operating_system": "android"
+}, {
+  "user_id": "65285b5ba98da98db9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001582572",
+  "operating_system": "android"
+}, {
+  "user_id": "84596060ca8dca8d17",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001582469",
+  "operating_system": "android"
+}, {
+  "user_id": "84596060ca8dca8d17",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001582311",
+  "operating_system": "android"
+}, {
+  "user_id": "E5A1C8C85D-C5D-CFC",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001582244",
+  "operating_system": "ios"
+}, {
+  "user_id": "E5A1C8C85D-C5D-CFC",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001581593",
+  "operating_system": "ios"
+}, {
+  "user_id": "E5A1C8C85D-C5D-CFC",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001581451",
+  "operating_system": "ios"
+}, {
+  "user_id": "5d5e7d7dd43bd43b7f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001578946",
+  "operating_system": "android"
+}, {
+  "user_id": "5d5e7d7dd43bd43b7f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001578399",
+  "operating_system": "android"
+}, {
+  "user_id": "5d5e7d7dd43bd43b7f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001578376",
+  "operating_system": "android"
+}, {
+  "user_id": "4474b9b91069106951",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001577508",
+  "operating_system": "android"
+}, {
+  "user_id": "663CDCDC52-C52-C5E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001577225",
+  "operating_system": "ios"
+}, {
+  "user_id": "4474b9b91069106951",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001575672",
+  "operating_system": "android"
+}, {
+  "user_id": "12945454F5-AF5-A9F",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001572797",
+  "operating_system": "ios"
+}, {
+  "user_id": "12945454F5-AF5-A9F",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571748",
+  "operating_system": "ios"
+}, {
+  "user_id": "663CDCDC52-C52-C5E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571742",
+  "operating_system": "ios"
+}, {
+  "user_id": "663CDCDC52-C52-C5E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571683",
+  "operating_system": "ios"
+}, {
+  "user_id": "5c2e4444ec6bec6b21",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571663",
+  "operating_system": "android"
+}, {
+  "user_id": "5c2e4444ec6bec6b21",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571163",
+  "operating_system": "android"
+}, {
+  "user_id": "12945454F5-AF5-A9F",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001571131",
+  "operating_system": "ios"
+}, {
+  "user_id": "5c2e4444ec6bec6b21",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001570794",
+  "operating_system": "android"
+}, {
+  "user_id": "85f95c5c1dd41dd428",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001569390",
+  "operating_system": "android"
+}, {
+  "user_id": "85f95c5c1dd41dd428",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001568294",
+  "operating_system": "android"
+}, {
+  "user_id": "85f95c5c1dd41dd428",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001568219",
+  "operating_system": "android"
+}, {
+  "user_id": "f87aa1a1fe9afe9a01",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001567857",
+  "operating_system": "android"
+}, {
+  "user_id": "f87aa1a1fe9afe9a01",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001567731",
+  "operating_system": "android"
+}, {
+  "user_id": "957c38383dd03dd0d7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001567111",
+  "operating_system": "android"
+}, {
+  "user_id": "6d8a363641e041e0f7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001566134",
+  "operating_system": "android"
+}, {
+  "user_id": "5efda7a70fc80fc8f9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001565520",
+  "operating_system": "android"
+}, {
+  "user_id": "f87aa1a1fe9afe9a01",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001565483",
+  "operating_system": "android"
+}, {
+  "user_id": "6d8a363641e041e0f7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001565290",
+  "operating_system": "android"
+}, {
+  "user_id": "6d8a363641e041e0f7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001564781",
+  "operating_system": "android"
+}, {
+  "user_id": "957c38383dd03dd0d7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001564740",
+  "operating_system": "android"
+}, {
+  "user_id": "5c69c3c3544d544de2",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001562597",
+  "operating_system": "android"
+}, {
+  "user_id": "957c38383dd03dd0d7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001561714",
+  "operating_system": "android"
+}, {
+  "user_id": "78ce9393f119f1198b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001560297",
+  "operating_system": "android"
+}, {
+  "user_id": "540b6f6f1d951d9527",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001559525",
+  "operating_system": "android"
+}, {
+  "user_id": "540b6f6f1d951d9527",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001558744",
+  "operating_system": "android"
+}, {
+  "user_id": "540b6f6f1d951d9527",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001558635",
+  "operating_system": "android"
+}, {
+  "user_id": "C14AF6F6C4-DC4-D9E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001555639",
+  "operating_system": "ios"
+}, {
+  "user_id": "defa3939f8f9f8f9cd",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001555347",
+  "operating_system": "android"
+}, {
+  "user_id": "defa3939f8f9f8f9cd",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001553690",
+  "operating_system": "android"
+}, {
+  "user_id": "defa3939f8f9f8f9cd",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001553091",
+  "operating_system": "android"
+}, {
+  "user_id": "65df8f8f1ca21ca289",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001552552",
+  "operating_system": "android"
+}, {
+  "user_id": "C14AF6F6C4-DC4-D9E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001552444",
+  "operating_system": "ios"
+}, {
+  "user_id": "0ed7222232e032e0b9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001552053",
+  "operating_system": "android"
+}, {
+  "user_id": "C14AF6F6C4-DC4-D9E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001550661",
+  "operating_system": "ios"
+}, {
+  "user_id": "a6e405055a3f5a3fa4",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001549815",
+  "operating_system": "android"
+}, {
+  "user_id": "a6e405055a3f5a3fa4",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001549255",
+  "operating_system": "android"
+}, {
+  "user_id": "0ed7222232e032e0b9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001547968",
+  "operating_system": "android"
+}, {
+  "user_id": "0ed7222232e032e0b9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001547855",
+  "operating_system": "android"
+}, {
+  "user_id": "65df8f8f1ca21ca289",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001547752",
+  "operating_system": "android"
+}, {
+  "user_id": "a6e405055a3f5a3fa4",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001546300",
+  "operating_system": "android"
+}, {
+  "user_id": "65df8f8f1ca21ca289",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001545861",
+  "operating_system": "android"
+}, {
+  "user_id": "FDD96F6F22-A22-A02",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001542419",
+  "operating_system": "ios"
+}, {
+  "user_id": "FDD96F6F22-A22-A02",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001540659",
+  "operating_system": "ios"
+}, {
+  "user_id": "FDD96F6F22-A22-A02",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001540557",
+  "operating_system": "ios"
+}, {
+  "user_id": "e83f5757bfdabfda19",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001540284",
+  "operating_system": "android"
+}, {
+  "user_id": "0aad6262dc04dc0490",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001539368",
+  "operating_system": "android"
+}, {
+  "user_id": "0aad6262dc04dc0490",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001538542",
+  "operating_system": "android"
+}, {
+  "user_id": "0aad6262dc04dc0490",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001538416",
+  "operating_system": "android"
+}, {
+  "user_id": "4eba4b4b524d524d1c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001536903",
+  "operating_system": "android"
+}, {
+  "user_id": "4eba4b4b524d524d1c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001536416",
+  "operating_system": "android"
+}, {
+  "user_id": "60943131da23da2394",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001534499",
+  "operating_system": "android"
+}, {
+  "user_id": "8c95a2a26dbd6dbd27",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001534294",
+  "operating_system": "android"
+}, {
+  "user_id": "60943131da23da2394",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001533369",
+  "operating_system": "android"
+}, {
+  "user_id": "60943131da23da2394",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001532683",
+  "operating_system": "android"
+}, {
+  "user_id": "8c95a2a26dbd6dbd27",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001529195",
+  "operating_system": "android"
+}, {
+  "user_id": "8c95a2a26dbd6dbd27",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001528238",
+  "operating_system": "android"
+}, {
+  "user_id": "7021777746-846-828",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001522663",
+  "operating_system": "ios"
+}, {
+  "user_id": "da292a2a616c616c1d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001521880",
+  "operating_system": "android"
+}, {
+  "user_id": "da292a2a616c616c1d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001521585",
+  "operating_system": "android"
+}, {
+  "user_id": "da292a2a616c616c1d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001521527",
+  "operating_system": "android"
+}, {
+  "user_id": "7021777746-846-828",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001520187",
+  "operating_system": "ios"
+}, {
+  "user_id": "a5039090254625469c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001518833",
+  "operating_system": "android"
+}, {
+  "user_id": "7021777746-846-828",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001518309",
+  "operating_system": "ios"
+}, {
+  "user_id": "a5039090254625469c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001517295",
+  "operating_system": "android"
+}, {
+  "user_id": "a5039090254625469c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001517151",
+  "operating_system": "android"
+}, {
+  "user_id": "21fe3939b97db97db9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001517031",
+  "operating_system": "android"
+}, {
+  "user_id": "597ebcbcb0dbb0db43",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001515796",
+  "operating_system": "android"
+}, {
+  "user_id": "dc3bcdcda514a51461",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001515140",
+  "operating_system": "android"
+}, {
+  "user_id": "597ebcbcb0dbb0db43",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001514045",
+  "operating_system": "android"
+}, {
+  "user_id": "dc3bcdcda514a51461",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001514044",
+  "operating_system": "android"
+}, {
+  "user_id": "dc3bcdcda514a51461",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001513967",
+  "operating_system": "android"
+}, {
+  "user_id": "597ebcbcb0dbb0db43",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001513061",
+  "operating_system": "android"
+}, {
+  "user_id": "dd3e40407c1e7c1e1c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001512565",
+  "operating_system": "android"
+}, {
+  "user_id": "21fe3939b97db97db9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001512270",
+  "operating_system": "android"
+}, {
+  "user_id": "21fe3939b97db97db9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001511886",
+  "operating_system": "android"
+}, {
+  "user_id": "dd3e40407c1e7c1e1c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001510751",
+  "operating_system": "android"
+}, {
+  "user_id": "dd3e40407c1e7c1e1c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001510364",
+  "operating_system": "android"
+}, {
+  "user_id": "175c4242845e845e76",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001509190",
+  "operating_system": "android"
+}, {
+  "user_id": "175c4242845e845e76",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001506682",
+  "operating_system": "android"
+}, {
+  "user_id": "175c4242845e845e76",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001505984",
+  "operating_system": "android"
+}, {
+  "user_id": "017b57575966596643",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001500761",
+  "operating_system": "android"
+}, {
+  "user_id": "017b57575966596643",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001500429",
+  "operating_system": "android"
+}, {
+  "user_id": "932c6767e14be14b3c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001498725",
+  "operating_system": "android"
+}, {
+  "user_id": "932c6767e14be14b3c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001498365",
+  "operating_system": "android"
+}, {
+  "user_id": "017b57575966596643",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001495707",
+  "operating_system": "android"
+}, {
+  "user_id": "15fb3c3c58045804c5",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001495118",
+  "operating_system": "android"
+}, {
+  "user_id": "15fb3c3c58045804c5",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001494687",
+  "operating_system": "android"
+}, {
+  "user_id": "15fb3c3c58045804c5",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001494531",
+  "operating_system": "android"
+}, {
+  "user_id": "0010383825-025-08D",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001490533",
+  "operating_system": "ios"
+}, {
+  "user_id": "0010383825-025-08D",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001489783",
+  "operating_system": "ios"
+}, {
+  "user_id": "dd6b3838d60ed60e0b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001489362",
+  "operating_system": "android"
+}, {
+  "user_id": "dd6b3838d60ed60e0b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001488459",
+  "operating_system": "android"
+}, {
+  "user_id": "dd6b3838d60ed60e0b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001488278",
+  "operating_system": "android"
+}, {
+  "user_id": "cbf58d8d0f960f9636",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001484102",
+  "operating_system": "android"
+}, {
+  "user_id": "cbf58d8d0f960f9636",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001483019",
+  "operating_system": "android"
+}, {
+  "user_id": "37fd45453e993e998d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001482995",
+  "operating_system": "android"
+}, {
+  "user_id": "09bfb5b544834483cc",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001482678",
+  "operating_system": "android"
+}, {
+  "user_id": "09bfb5b544834483cc",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001481908",
+  "operating_system": "android"
+}, {
+  "user_id": "de28c2c2b295b2958f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001481733",
+  "operating_system": "android"
+}, {
+  "user_id": "cbf58d8d0f960f9636",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001481423",
+  "operating_system": "android"
+}, {
+  "user_id": "de28c2c2b295b2958f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001480849",
+  "operating_system": "android"
+}, {
+  "user_id": "554adbdbe23be23be4",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001479887",
+  "operating_system": "android"
+}, {
+  "user_id": "a88ae7e757105710c1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001478989",
+  "operating_system": "android"
+}, {
+  "user_id": "de28c2c2b295b2958f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001478783",
+  "operating_system": "android"
+}, {
+  "user_id": "554adbdbe23be23be4",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001478753",
+  "operating_system": "android"
+}, {
+  "user_id": "68050b0b9cc29cc2be",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001478259",
+  "operating_system": "android"
+}, {
+  "user_id": "429332320ef90ef9f9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001478116",
+  "operating_system": "android"
+}, {
+  "user_id": "554adbdbe23be23be4",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001477810",
+  "operating_system": "android"
+}, {
+  "user_id": "68050b0b9cc29cc2be",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001477416",
+  "operating_system": "android"
+}, {
+  "user_id": "429332320ef90ef9f9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001477107",
+  "operating_system": "android"
+}, {
+  "user_id": "cd997272c2aec2aebb",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001476599",
+  "operating_system": "android"
+}, {
+  "user_id": "68050b0b9cc29cc2be",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001476502",
+  "operating_system": "android"
+}, {
+  "user_id": "429332320ef90ef9f9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001475473",
+  "operating_system": "android"
+}, {
+  "user_id": "1840b2b2eebbeebb5c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001472725",
+  "operating_system": "android"
+}, {
+  "user_id": "AD2EC5C5D2-0D2-04B",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001469964",
+  "operating_system": "ios"
+}, {
+  "user_id": "10519696e6d9e6d990",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001468454",
+  "operating_system": "android"
+}, {
+  "user_id": "ca101d1da2e3a2e399",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001468314",
+  "operating_system": "android"
+}, {
+  "user_id": "ca101d1da2e3a2e399",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001467214",
+  "operating_system": "android"
+}, {
+  "user_id": "F3B329295B-75B-79C",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001465967",
+  "operating_system": "ios"
+}, {
+  "user_id": "ae724141f0e1f0e1c0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001465932",
+  "operating_system": "android"
+}, {
+  "user_id": "F3B329295B-75B-79C",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001465087",
+  "operating_system": "ios"
+}, {
+  "user_id": "F3B329295B-75B-79C",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001464991",
+  "operating_system": "ios"
+}, {
+  "user_id": "10519696e6d9e6d990",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001463724",
+  "operating_system": "android"
+}, {
+  "user_id": "10519696e6d9e6d990",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001463468",
+  "operating_system": "android"
+}, {
+  "user_id": "ae724141f0e1f0e1c0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001463390",
+  "operating_system": "android"
+}, {
+  "user_id": "61277b7bd8cad8ca58",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001462934",
+  "operating_system": "android"
+}, {
+  "user_id": "1c0c2121413c413c50",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001462419",
+  "operating_system": "android"
+}, {
+  "user_id": "ae724141f0e1f0e1c0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001462088",
+  "operating_system": "android"
+}, {
+  "user_id": "61277b7bd8cad8ca58",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001461961",
+  "operating_system": "android"
+}, {
+  "user_id": "ca101d1da2e3a2e399",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001461721",
+  "operating_system": "android"
+}, {
+  "user_id": "61277b7bd8cad8ca58",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001461562",
+  "operating_system": "android"
+}, {
+  "user_id": "fcc6e1e1685f685f11",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001461011",
+  "operating_system": "android"
+}, {
+  "user_id": "bcdb87877e047e04ab",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001460853",
+  "operating_system": "android"
+}, {
+  "user_id": "bcdb87877e047e04ab",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001460124",
+  "operating_system": "android"
+}, {
+  "user_id": "bcdb87877e047e04ab",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001459967",
+  "operating_system": "android"
+}, {
+  "user_id": "fcc6e1e1685f685f11",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001459748",
+  "operating_system": "android"
+}, {
+  "user_id": "1c0c2121413c413c50",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001459508",
+  "operating_system": "android"
+}, {
+  "user_id": "fcc6e1e1685f685f11",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001459356",
+  "operating_system": "android"
+}, {
+  "user_id": "1c0c2121413c413c50",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001458251",
+  "operating_system": "android"
+}, {
+  "user_id": "e4a34141e284e284e7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001457889",
+  "operating_system": "android"
+}, {
+  "user_id": "e4a34141e284e284e7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001457480",
+  "operating_system": "android"
+}, {
+  "user_id": "e4a34141e284e284e7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001456286",
+  "operating_system": "android"
+}, {
+  "user_id": "78e72e2e9d839d8340",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001454431",
+  "operating_system": "android"
+}, {
+  "user_id": "4eba4b4b524d524d1c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001454041",
+  "operating_system": "android"
+}, {
+  "user_id": "bd3be6e69058905834",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001449625",
+  "operating_system": "android"
+}, {
+  "user_id": "a8d27b7b78a978a999",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001449217",
+  "operating_system": "android"
+}, {
+  "user_id": "5a460202c891c89109",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001448750",
+  "operating_system": "android"
+}, {
+  "user_id": "bd3be6e69058905834",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001448353",
+  "operating_system": "android"
+}, {
+  "user_id": "09994949ad54ad54c0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001446603",
+  "operating_system": "android"
+}, {
+  "user_id": "00da8d8d7292729267",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001446424",
+  "operating_system": "android"
+}, {
+  "user_id": "09994949ad54ad54c0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001445287",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8bf8f8df04df0452",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001444236",
+  "operating_system": "android"
+}, {
+  "user_id": "be664c4c90009000e0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001443260",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8bf8f8df04df0452",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001442735",
+  "operating_system": "android"
+}, {
+  "user_id": "be664c4c90009000e0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001442619",
+  "operating_system": "android"
+}, {
+  "user_id": "be664c4c90009000e0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001441995",
+  "operating_system": "android"
+}, {
+  "user_id": "1840b2b2eebbeebb5c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001440411",
+  "operating_system": "android"
+}, {
+  "user_id": "ec8bf8f8df04df0452",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001440391",
+  "operating_system": "android"
+}, {
+  "user_id": "AD2EC5C5D2-0D2-04B",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001440240",
+  "operating_system": "ios"
+}, {
+  "user_id": "04cbfefea4e5a4e574",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001440165",
+  "operating_system": "android"
+}, {
+  "user_id": "1840b2b2eebbeebb5c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001439314",
+  "operating_system": "android"
+}, {
+  "user_id": "04cbfefea4e5a4e574",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001439009",
+  "operating_system": "android"
+}, {
+  "user_id": "c6ff6363d68dd68d5e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001437317",
+  "operating_system": "android"
+}, {
+  "user_id": "04cbfefea4e5a4e574",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001436949",
+  "operating_system": "android"
+}, {
+  "user_id": "c6ff6363d68dd68d5e",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001436085",
+  "operating_system": "android"
+}, {
+  "user_id": "c6ff6363d68dd68d5e",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001435968",
+  "operating_system": "android"
+}, {
+  "user_id": "b30f393981ce81ce65",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001434607",
+  "operating_system": "android"
+}, {
+  "user_id": "7f2a5555745a745a63",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001434025",
+  "operating_system": "android"
+}, {
+  "user_id": "98e7616186dc86dc6d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001432742",
+  "operating_system": "android"
+}, {
+  "user_id": "de510c0c188d188d23",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001432555",
+  "operating_system": "android"
+}, {
+  "user_id": "a8d27b7b78a978a999",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001432404",
+  "operating_system": "android"
+}, {
+  "user_id": "a8d27b7b78a978a999",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001432099",
+  "operating_system": "android"
+}, {
+  "user_id": "98e7616186dc86dc6d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001431663",
+  "operating_system": "android"
+}, {
+  "user_id": "98e7616186dc86dc6d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001431303",
+  "operating_system": "android"
+}, {
+  "user_id": "1b29282852375237ab",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001429795",
+  "operating_system": "android"
+}, {
+  "user_id": "99F174740C-70C-720",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001429744",
+  "operating_system": "ios"
+}, {
+  "user_id": "de510c0c188d188d23",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001429410",
+  "operating_system": "android"
+}, {
+  "user_id": "66e59d9d51b451b434",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001427727",
+  "operating_system": "android"
+}, {
+  "user_id": "0FF14D4DE8-FE8-F4D",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001427563",
+  "operating_system": "ios"
+}, {
+  "user_id": "de510c0c188d188d23",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001427167",
+  "operating_system": "android"
+}, {
+  "user_id": "1b29282852375237ab",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001425675",
+  "operating_system": "android"
+}, {
+  "user_id": "1b29282852375237ab",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001425600",
+  "operating_system": "android"
+}, {
+  "user_id": "0FF14D4DE8-FE8-F4D",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001424821",
+  "operating_system": "ios"
+}, {
+  "user_id": "99F174740C-70C-720",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001424784",
+  "operating_system": "ios"
+}, {
+  "user_id": "99F174740C-70C-720",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001424702",
+  "operating_system": "ios"
+}, {
+  "user_id": "0FF14D4DE8-FE8-F4D",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001423956",
+  "operating_system": "ios"
+}, {
+  "user_id": "7f2a5555745a745a63",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001423100",
+  "operating_system": "android"
+}, {
+  "user_id": "7f2a5555745a745a63",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001420745",
+  "operating_system": "android"
+}, {
+  "user_id": "ed4da8a83408340805",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001418846",
+  "operating_system": "android"
+}, {
+  "user_id": "04dd5151749b749bc8",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001418610",
+  "operating_system": "android"
+}, {
+  "user_id": "ed4da8a83408340805",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001417847",
+  "operating_system": "android"
+}, {
+  "user_id": "ed4da8a83408340805",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001416805",
+  "operating_system": "android"
+}, {
+  "user_id": "5f3a78781c9d1c9d9b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001415588",
+  "operating_system": "android"
+}, {
+  "user_id": "47c509090f8f0f8f30",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001415083",
+  "operating_system": "android"
+}, {
+  "user_id": "2f91737347a547a583",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001414859",
+  "operating_system": "android"
+}, {
+  "user_id": "21bc3e3e9d329d3289",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001414804",
+  "operating_system": "android"
+}, {
+  "user_id": "21bc3e3e9d329d3289",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001414441",
+  "operating_system": "android"
+}, {
+  "user_id": "5f3a78781c9d1c9d9b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001413845",
+  "operating_system": "android"
+}, {
+  "user_id": "04dd5151749b749bc8",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001413798",
+  "operating_system": "android"
+}, {
+  "user_id": "47c509090f8f0f8f30",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001413795",
+  "operating_system": "android"
+}, {
+  "user_id": "5f3a78781c9d1c9d9b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001413647",
+  "operating_system": "android"
+}, {
+  "user_id": "27CA282885-685-636",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001413502",
+  "operating_system": "ios"
+}, {
+  "user_id": "27CA282885-685-636",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001412958",
+  "operating_system": "ios"
+}, {
+  "user_id": "2f91737347a547a583",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001412775",
+  "operating_system": "android"
+}, {
+  "user_id": "04dd5151749b749bc8",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001412709",
+  "operating_system": "android"
+}, {
+  "user_id": "27CA282885-685-636",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001412041",
+  "operating_system": "ios"
+}, {
+  "user_id": "ba9adddd06750675e9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001411243",
+  "operating_system": "android"
+}, {
+  "user_id": "ba9adddd06750675e9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001410095",
+  "operating_system": "android"
+}, {
+  "user_id": "ac508787f7dbf7db10",
+  "event_name": "purchase",
+  "event_date": "2024-07-14",
+  "event_time": "1721001410025",
+  "operating_system": "android"
+}, {
+  "user_id": "ba9adddd06750675e9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001409809",
+  "operating_system": "android"
+}, {
+  "user_id": "f1c28383b1fbb1fb9c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001409525",
+  "operating_system": "android"
+}, {
+  "user_id": "21bc3e3e9d329d3289",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001409344",
+  "operating_system": "android"
+}, {
+  "user_id": "f1c28383b1fbb1fb9c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001408078",
+  "operating_system": "android"
+}, {
+  "user_id": "d32f59591f6d1f6dcb",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001407848",
+  "operating_system": "android"
+}, {
+  "user_id": "f1c28383b1fbb1fb9c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001407750",
+  "operating_system": "android"
+}, {
+  "user_id": "3a57c2c2c197c197d0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001406834",
+  "operating_system": "android"
+}, {
+  "user_id": "b460f3f3114a114a9f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001404572",
+  "operating_system": "android"
+}, {
+  "user_id": "3a57c2c2c197c197d0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001403887",
+  "operating_system": "android"
+}, {
+  "user_id": "b460f3f3114a114a9f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001402663",
+  "operating_system": "android"
+}, {
+  "user_id": "b460f3f3114a114a9f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001402233",
+  "operating_system": "android"
+}, {
+  "user_id": "44349a9abda0bda0fd",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001401746",
+  "operating_system": "android"
+}, {
+  "user_id": "3a57c2c2c197c197d0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001401604",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea89898fd87fd873f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001400710",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea89898fd87fd873f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001398900",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea89898fd87fd873f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001398262",
+  "operating_system": "android"
+}, {
+  "user_id": "44349a9abda0bda0fd",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001398253",
+  "operating_system": "android"
+}, {
+  "user_id": "44349a9abda0bda0fd",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001397899",
+  "operating_system": "android"
+}, {
+  "user_id": "dc52e1e1eedeeede70",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001397807",
+  "operating_system": "android"
+}, {
+  "user_id": "dc52e1e1eedeeede70",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001397221",
+  "operating_system": "android"
+}, {
+  "user_id": "a931838363396339e5",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001397022",
+  "operating_system": "android"
+}, {
+  "user_id": "dc52e1e1eedeeede70",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001396970",
+  "operating_system": "android"
+}, {
+  "user_id": "76ac8888b2b8b2b842",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001395564",
+  "operating_system": "android"
+}, {
+  "user_id": "e83f5757bfdabfda19",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001392075",
+  "operating_system": "android"
+}, {
+  "user_id": "c0bf03038738873835",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001391980",
+  "operating_system": "android"
+}, {
+  "user_id": "1294b6b65569556914",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001391802",
+  "operating_system": "android"
+}, {
+  "user_id": "c0bf03038738873835",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001390581",
+  "operating_system": "android"
+}, {
+  "user_id": "c0bf03038738873835",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001390358",
+  "operating_system": "android"
+}, {
+  "user_id": "78e451516954695442",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001389957",
+  "operating_system": "android"
+}, {
+  "user_id": "1294b6b65569556914",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001388861",
+  "operating_system": "android"
+}, {
+  "user_id": "78e451516954695442",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001388860",
+  "operating_system": "android"
+}, {
+  "user_id": "78e451516954695442",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001388019",
+  "operating_system": "android"
+}, {
+  "user_id": "1294b6b65569556914",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001387966",
+  "operating_system": "android"
+}, {
+  "user_id": "fa5aa9a906390639f1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001387545",
+  "operating_system": "android"
+}, {
+  "user_id": "fa5aa9a906390639f1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001386515",
+  "operating_system": "android"
+}, {
+  "user_id": "fa5aa9a906390639f1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001386227",
+  "operating_system": "android"
+}, {
+  "user_id": "6b5ac5c5df80df8049",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001385958",
+  "operating_system": "android"
+}, {
+  "user_id": "09994949ad54ad54c0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001384873",
+  "operating_system": "android"
+}, {
+  "user_id": "9d7b2b2b28c128c150",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001384392",
+  "operating_system": "android"
+}, {
+  "user_id": "e83f5757bfdabfda19",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001384173",
+  "operating_system": "android"
+}, {
+  "user_id": "6b5ac5c5df80df8049",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001384125",
+  "operating_system": "android"
+}, {
+  "user_id": "aa98bbbbb3edb3edab",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001383087",
+  "operating_system": "android"
+}, {
+  "user_id": "b8fd8888ab5dab5dba",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001383014",
+  "operating_system": "android"
+}, {
+  "user_id": "E3F43C3C7A-57A-5BD",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001382757",
+  "operating_system": "ios"
+}, {
+  "user_id": "b8fd8888ab5dab5dba",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001382564",
+  "operating_system": "android"
+}, {
+  "user_id": "aa98bbbbb3edb3edab",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001382406",
+  "operating_system": "android"
+}, {
+  "user_id": "b8fd8888ab5dab5dba",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001382194",
+  "operating_system": "android"
+}, {
+  "user_id": "AD2EC5C5D2-0D2-04B",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001381760",
+  "operating_system": "ios"
+}, {
+  "user_id": "9d7b2b2b28c128c150",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001381038",
+  "operating_system": "android"
+}, {
+  "user_id": "6b5ac5c5df80df8049",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001381006",
+  "operating_system": "android"
+}, {
+  "user_id": "9d7b2b2b28c128c150",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001380662",
+  "operating_system": "android"
+}, {
+  "user_id": "E3F43C3C7A-57A-5BD",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001380518",
+  "operating_system": "ios"
+}, {
+  "user_id": "aa98bbbbb3edb3edab",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001380509",
+  "operating_system": "android"
+}, {
+  "user_id": "9a67d2d2ada0ada029",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001377777",
+  "operating_system": "android"
+}, {
+  "user_id": "9a67d2d2ada0ada029",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001377015",
+  "operating_system": "android"
+}, {
+  "user_id": "216ce2e2b2e0b2e0a2",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001376765",
+  "operating_system": "android"
+}, {
+  "user_id": "9a67d2d2ada0ada029",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001376400",
+  "operating_system": "android"
+}, {
+  "user_id": "216ce2e2b2e0b2e0a2",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001375055",
+  "operating_system": "android"
+}, {
+  "user_id": "E3F43C3C7A-57A-5BD",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001374143",
+  "operating_system": "ios"
+}, {
+  "user_id": "216ce2e2b2e0b2e0a2",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001371434",
+  "operating_system": "android"
+}, {
+  "user_id": "6488b7b733d633d691",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001371080",
+  "operating_system": "android"
+}, {
+  "user_id": "edff0c0c1b801b80c2",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001370583",
+  "operating_system": "android"
+}, {
+  "user_id": "ada77d7d359035901b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001370549",
+  "operating_system": "android"
+}, {
+  "user_id": "6488b7b733d633d691",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001369625",
+  "operating_system": "android"
+}, {
+  "user_id": "6488b7b733d633d691",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001369555",
+  "operating_system": "android"
+}, {
+  "user_id": "ada77d7d359035901b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001368875",
+  "operating_system": "android"
+}, {
+  "user_id": "edff0c0c1b801b80c2",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001368701",
+  "operating_system": "android"
+}, {
+  "user_id": "ada77d7d359035901b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001367325",
+  "operating_system": "android"
+}, {
+  "user_id": "edff0c0c1b801b80c2",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001367169",
+  "operating_system": "android"
+}, {
+  "user_id": "ef1a7a7a588558856d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001366245",
+  "operating_system": "android"
+}, {
+  "user_id": "a931838363396339e5",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001363460",
+  "operating_system": "android"
+}, {
+  "user_id": "c6030606c09cc09cf3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001363291",
+  "operating_system": "android"
+}, {
+  "user_id": "c6030606c09cc09cf3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001362385",
+  "operating_system": "android"
+}, {
+  "user_id": "ef1a7a7a588558856d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001362057",
+  "operating_system": "android"
+}, {
+  "user_id": "d7721b1b4ca14ca1aa",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001361630",
+  "operating_system": "android"
+}, {
+  "user_id": "d7721b1b4ca14ca1aa",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001361100",
+  "operating_system": "android"
+}, {
+  "user_id": "d7721b1b4ca14ca1aa",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001360879",
+  "operating_system": "android"
+}, {
+  "user_id": "ef1a7a7a588558856d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001360813",
+  "operating_system": "android"
+}, {
+  "user_id": "dcb510109eff9eff89",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001359992",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea0babae18ce18c47",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001359408",
+  "operating_system": "android"
+}, {
+  "user_id": "a931838363396339e5",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001359005",
+  "operating_system": "android"
+}, {
+  "user_id": "dcb510109eff9eff89",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001358839",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea0babae18ce18c47",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001358784",
+  "operating_system": "android"
+}, {
+  "user_id": "dcb510109eff9eff89",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001358475",
+  "operating_system": "android"
+}, {
+  "user_id": "33cb7777ec4bec4b0d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001358169",
+  "operating_system": "android"
+}, {
+  "user_id": "a7f82323907e907ef9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001357272",
+  "operating_system": "android"
+}, {
+  "user_id": "33cb7777ec4bec4b0d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001356559",
+  "operating_system": "android"
+}, {
+  "user_id": "a7f82323907e907ef9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001356454",
+  "operating_system": "android"
+}, {
+  "user_id": "a7f82323907e907ef9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001354996",
+  "operating_system": "android"
+}, {
+  "user_id": "6ad502023173317337",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001354646",
+  "operating_system": "android"
+}, {
+  "user_id": "6ad502023173317337",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001354603",
+  "operating_system": "android"
+}, {
+  "user_id": "6ad502023173317337",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001354259",
+  "operating_system": "android"
+}, {
+  "user_id": "707b1414d8acd8acfe",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001353628",
+  "operating_system": "android"
+}, {
+  "user_id": "33cb7777ec4bec4b0d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001353441",
+  "operating_system": "android"
+}, {
+  "user_id": "e8e05050b7a0b7a0ab",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001353285",
+  "operating_system": "android"
+}, {
+  "user_id": "02631818C3-BC3-BBE",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001351983",
+  "operating_system": "ios"
+}, {
+  "user_id": "02631818C3-BC3-BBE",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001351189",
+  "operating_system": "ios"
+}, {
+  "user_id": "02631818C3-BC3-BBE",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001350994",
+  "operating_system": "ios"
+}, {
+  "user_id": "f7205e5ececaceca6f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001350176",
+  "operating_system": "android"
+}, {
+  "user_id": "f7205e5ececaceca6f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001348568",
+  "operating_system": "android"
+}, {
+  "user_id": "f7205e5ececaceca6f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001347615",
+  "operating_system": "android"
+}, {
+  "user_id": "905ddadabaa1baa1f0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001346563",
+  "operating_system": "android"
+}, {
+  "user_id": "905ddadabaa1baa1f0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001341531",
+  "operating_system": "android"
+}, {
+  "user_id": "9ea0babae18ce18c47",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001341230",
+  "operating_system": "android"
+}, {
+  "user_id": "a88ae7e757105710c1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001339748",
+  "operating_system": "android"
+}, {
+  "user_id": "478eb1b1476b476b63",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001338692",
+  "operating_system": "android"
+}, {
+  "user_id": "8039bcbc4bca4bca95",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001338072",
+  "operating_system": "android"
+}, {
+  "user_id": "0C8A6B6BAB-DAB-D0E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001338018",
+  "operating_system": "ios"
+}, {
+  "user_id": "0C8A6B6BAB-DAB-D0E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001337696",
+  "operating_system": "ios"
+}, {
+  "user_id": "0C8A6B6BAB-DAB-D0E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001337650",
+  "operating_system": "ios"
+}, {
+  "user_id": "8039bcbc4bca4bca95",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001337307",
+  "operating_system": "android"
+}, {
+  "user_id": "8039bcbc4bca4bca95",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001336744",
+  "operating_system": "android"
+}, {
+  "user_id": "b10f3a3aa3eea3ee3b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001336710",
+  "operating_system": "android"
+}, {
+  "user_id": "b10f3a3aa3eea3ee3b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001335300",
+  "operating_system": "android"
+}, {
+  "user_id": "b10f3a3aa3eea3ee3b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001335212",
+  "operating_system": "android"
+}, {
+  "user_id": "905ddadabaa1baa1f0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001334201",
+  "operating_system": "android"
+}, {
+  "user_id": "478eb1b1476b476b63",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001334097",
+  "operating_system": "android"
+}, {
+  "user_id": "a88ae7e757105710c1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001333948",
+  "operating_system": "android"
+}, {
+  "user_id": "c5ed343463f863f875",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001333861",
+  "operating_system": "android"
+}, {
+  "user_id": "478eb1b1476b476b63",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001333528",
+  "operating_system": "android"
+}, {
+  "user_id": "f81540400c810c8126",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001331661",
+  "operating_system": "android"
+}, {
+  "user_id": "32dda5a5a9c1a9c1ff",
+  "event_name": "purchase",
+  "event_date": "2024-07-14",
+  "event_time": "1721001330591",
+  "operating_system": "android"
+}, {
+  "user_id": "f81540400c810c8126",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001330046",
+  "operating_system": "android"
+}, {
+  "user_id": "f81540400c810c8126",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001329883",
+  "operating_system": "android"
+}, {
+  "user_id": "7a2a7d7dd806d806b3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328980",
+  "operating_system": "android"
+}, {
+  "user_id": "497e4444d5a6d5a6c2",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328552",
+  "operating_system": "android"
+}, {
+  "user_id": "b11abcbcf614f61443",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328433",
+  "operating_system": "android"
+}, {
+  "user_id": "32dde8e8a4cea4ce09",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328357",
+  "operating_system": "android"
+}, {
+  "user_id": "7a2a7d7dd806d806b3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328353",
+  "operating_system": "android"
+}, {
+  "user_id": "7a2a7d7dd806d806b3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001328031",
+  "operating_system": "android"
+}, {
+  "user_id": "497e4444d5a6d5a6c2",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001327472",
+  "operating_system": "android"
+}, {
+  "user_id": "497e4444d5a6d5a6c2",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001326573",
+  "operating_system": "android"
+}, {
+  "user_id": "32dde8e8a4cea4ce09",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001326418",
+  "operating_system": "android"
+}, {
+  "user_id": "32dde8e8a4cea4ce09",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001322932",
+  "operating_system": "android"
+}, {
+  "user_id": "350d51511ca51ca5d5",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001316914",
+  "operating_system": "android"
+}, {
+  "user_id": "350d51511ca51ca5d5",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001316358",
+  "operating_system": "android"
+}, {
+  "user_id": "350d51511ca51ca5d5",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001315933",
+  "operating_system": "android"
+}, {
+  "user_id": "62d7b3b32b7f2b7f0d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001312926",
+  "operating_system": "android"
+}, {
+  "user_id": "554f2121078e078e41",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001311601",
+  "operating_system": "android"
+}, {
+  "user_id": "C8C81919E1-BE1-B46",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001308852",
+  "operating_system": "ios"
+}, {
+  "user_id": "C8C81919E1-BE1-B46",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001308510",
+  "operating_system": "ios"
+}, {
+  "user_id": "C8C81919E1-BE1-B46",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001308439",
+  "operating_system": "ios"
+}, {
+  "user_id": "06e18d8d4c104c1052",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001306844",
+  "operating_system": "android"
+}, {
+  "user_id": "268bdededebbdebbac",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001304409",
+  "operating_system": "android"
+}, {
+  "user_id": "268bdededebbdebbac",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001302387",
+  "operating_system": "android"
+}, {
+  "user_id": "06e18d8d4c104c1052",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001302054",
+  "operating_system": "android"
+}, {
+  "user_id": "06e18d8d4c104c1052",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001301849",
+  "operating_system": "android"
+}, {
+  "user_id": "268bdededebbdebbac",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001300874",
+  "operating_system": "android"
+}, {
+  "user_id": "AB2583836C-96C-9A1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001300310",
+  "operating_system": "ios"
+}, {
+  "user_id": "24bc6868690b690b52",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001298039",
+  "operating_system": "android"
+}, {
+  "user_id": "AB2583836C-96C-9A1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001297477",
+  "operating_system": "ios"
+}, {
+  "user_id": "AB2583836C-96C-9A1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001297365",
+  "operating_system": "ios"
+}, {
+  "user_id": "24bc6868690b690b52",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001296994",
+  "operating_system": "android"
+}, {
+  "user_id": "24bc6868690b690b52",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001296406",
+  "operating_system": "android"
+}, {
+  "user_id": "3008919110ec10ec4f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001292767",
+  "operating_system": "android"
+}, {
+  "user_id": "3008919110ec10ec4f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001292609",
+  "operating_system": "android"
+}, {
+  "user_id": "3008919110ec10ec4f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001292398",
+  "operating_system": "android"
+}, {
+  "user_id": "12849b9b2e502e5074",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001287171",
+  "operating_system": "android"
+}, {
+  "user_id": "12849b9b2e502e5074",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001284923",
+  "operating_system": "android"
+}, {
+  "user_id": "86ef9898020a020aeb",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001284620",
+  "operating_system": "android"
+}, {
+  "user_id": "4B6731318A-78A-7FE",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001284432",
+  "operating_system": "ios"
+}, {
+  "user_id": "12849b9b2e502e5074",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283963",
+  "operating_system": "android"
+}, {
+  "user_id": "09f43535f319f319da",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283933",
+  "operating_system": "android"
+}, {
+  "user_id": "4B6731318A-78A-7FE",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283900",
+  "operating_system": "ios"
+}, {
+  "user_id": "4B6731318A-78A-7FE",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283864",
+  "operating_system": "ios"
+}, {
+  "user_id": "09f43535f319f319da",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283409",
+  "operating_system": "android"
+}, {
+  "user_id": "09f43535f319f319da",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001283224",
+  "operating_system": "android"
+}, {
+  "user_id": "d1118d8d783b783b73",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001281790",
+  "operating_system": "android"
+}, {
+  "user_id": "d1118d8d783b783b73",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001279715",
+  "operating_system": "android"
+}, {
+  "user_id": "d1118d8d783b783b73",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001279534",
+  "operating_system": "android"
+}, {
+  "user_id": "23dc5959dfdbdfdb93",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001279295",
+  "operating_system": "android"
+}, {
+  "user_id": "23dc5959dfdbdfdb93",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001278302",
+  "operating_system": "android"
+}, {
+  "user_id": "23dc5959dfdbdfdb93",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001278048",
+  "operating_system": "android"
+}, {
+  "user_id": "5fcf494936ad36ad1b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001275738",
+  "operating_system": "android"
+}, {
+  "user_id": "68920b0b47204720dc",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001274307",
+  "operating_system": "android"
+}, {
+  "user_id": "9FC1F8F80F-F0F-F45",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001272812",
+  "operating_system": "ios"
+}, {
+  "user_id": "9FC1F8F80F-F0F-F45",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001272432",
+  "operating_system": "ios"
+}, {
+  "user_id": "5fcf494936ad36ad1b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001272269",
+  "operating_system": "android"
+}, {
+  "user_id": "9FC1F8F80F-F0F-F45",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001272266",
+  "operating_system": "ios"
+}, {
+  "user_id": "6c62515101c201c22e",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001271648",
+  "operating_system": "android"
+}, {
+  "user_id": "5fcf494936ad36ad1b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001269388",
+  "operating_system": "android"
+}, {
+  "user_id": "68920b0b47204720dc",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001268833",
+  "operating_system": "android"
+}, {
+  "user_id": "0a911919e09ee09eba",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001268026",
+  "operating_system": "android"
+}, {
+  "user_id": "53a79a9a83988398ac",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001267962",
+  "operating_system": "android"
+}, {
+  "user_id": "ea4b7e7ecbf5cbf506",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001267907",
+  "operating_system": "android"
+}, {
+  "user_id": "0a911919e09ee09eba",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001266879",
+  "operating_system": "android"
+}, {
+  "user_id": "3861D4D46A-E6A-E39",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001266752",
+  "operating_system": "ios"
+}, {
+  "user_id": "53a79a9a83988398ac",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001266711",
+  "operating_system": "android"
+}, {
+  "user_id": "68920b0b47204720dc",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001266145",
+  "operating_system": "android"
+}, {
+  "user_id": "ea4b7e7ecbf5cbf506",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001266000",
+  "operating_system": "android"
+}, {
+  "user_id": "53a79a9a83988398ac",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001265723",
+  "operating_system": "android"
+}, {
+  "user_id": "5ac1fafa4e9f4e9fa5",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001265473",
+  "operating_system": "android"
+}, {
+  "user_id": "0a911919e09ee09eba",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001264822",
+  "operating_system": "android"
+}, {
+  "user_id": "f884b6b61a4e1a4e9f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001263337",
+  "operating_system": "android"
+}, {
+  "user_id": "ab77dddd28f728f7da",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001262282",
+  "operating_system": "android"
+}, {
+  "user_id": "f884b6b61a4e1a4e9f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001261494",
+  "operating_system": "android"
+}, {
+  "user_id": "ab77dddd28f728f7da",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001261132",
+  "operating_system": "android"
+}, {
+  "user_id": "ab77dddd28f728f7da",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001261071",
+  "operating_system": "android"
+}, {
+  "user_id": "a3bfddddf129f129a8",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001260935",
+  "operating_system": "android"
+}, {
+  "user_id": "78c194942da32da315",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001260905",
+  "operating_system": "android"
+}, {
+  "user_id": "f884b6b61a4e1a4e9f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001260801",
+  "operating_system": "android"
+}, {
+  "user_id": "5ac1fafa4e9f4e9fa5",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001260494",
+  "operating_system": "android"
+}, {
+  "user_id": "ceeed5d5585e585eb7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001259529",
+  "operating_system": "android"
+}, {
+  "user_id": "ceeed5d5585e585eb7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001257255",
+  "operating_system": "android"
+}, {
+  "user_id": "5ac1fafa4e9f4e9fa5",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001256245",
+  "operating_system": "android"
+}, {
+  "user_id": "ceeed5d5585e585eb7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001256041",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f31c1c3f643f64be",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001256040",
+  "operating_system": "android"
+}, {
+  "user_id": "3d47bfbf4a0e4a0e91",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001256030",
+  "operating_system": "android"
+}, {
+  "user_id": "da8dc7c7cd51cd5146",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001255749",
+  "operating_system": "android"
+}, {
+  "user_id": "d6136565a9e5a9e596",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001255128",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f31c1c3f643f64be",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001255097",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f31c1c3f643f64be",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001254405",
+  "operating_system": "android"
+}, {
+  "user_id": "78c194942da32da315",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001254273",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f87e7e94c294c247",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001254269",
+  "operating_system": "android"
+}, {
+  "user_id": "45de4a4aa026a026be",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001253781",
+  "operating_system": "android"
+}, {
+  "user_id": "d6136565a9e5a9e596",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001253571",
+  "operating_system": "android"
+}, {
+  "user_id": "5efda7a70fc80fc8f9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001252905",
+  "operating_system": "android"
+}, {
+  "user_id": "d6136565a9e5a9e596",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001252478",
+  "operating_system": "android"
+}, {
+  "user_id": "5c69c3c3544d544de2",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001252138",
+  "operating_system": "android"
+}, {
+  "user_id": "78c194942da32da315",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001251771",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f87e7e94c294c247",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001251759",
+  "operating_system": "android"
+}, {
+  "user_id": "1968cfcf82ab82abb6",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001251744",
+  "operating_system": "android"
+}, {
+  "user_id": "da8dc7c7cd51cd5146",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001251492",
+  "operating_system": "android"
+}, {
+  "user_id": "d3f87e7e94c294c247",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001251447",
+  "operating_system": "android"
+}, {
+  "user_id": "3d47bfbf4a0e4a0e91",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001250979",
+  "operating_system": "android"
+}, {
+  "user_id": "1968cfcf82ab82abb6",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001250681",
+  "operating_system": "android"
+}, {
+  "user_id": "5c69c3c3544d544de2",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001250520",
+  "operating_system": "android"
+}, {
+  "user_id": "1968cfcf82ab82abb6",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001250458",
+  "operating_system": "android"
+}, {
+  "user_id": "da8dc7c7cd51cd5146",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001250400",
+  "operating_system": "android"
+}, {
+  "user_id": "5efda7a70fc80fc8f9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001248160",
+  "operating_system": "android"
+}, {
+  "user_id": "2c345f5f5d535d5393",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001247849",
+  "operating_system": "android"
+}, {
+  "user_id": "2c345f5f5d535d5393",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001246557",
+  "operating_system": "android"
+}, {
+  "user_id": "2c345f5f5d535d5393",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001246388",
+  "operating_system": "android"
+}, {
+  "user_id": "3d47bfbf4a0e4a0e91",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001244927",
+  "operating_system": "android"
+}, {
+  "user_id": "7efe5e5e509850989a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001240991",
+  "operating_system": "android"
+}, {
+  "user_id": "7efe5e5e509850989a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001239515",
+  "operating_system": "android"
+}, {
+  "user_id": "7efe5e5e509850989a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001239331",
+  "operating_system": "android"
+}, {
+  "user_id": "2e299797b0ccb0cce8",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001238367",
+  "operating_system": "android"
+}, {
+  "user_id": "87f1d4d4a6d3a6d3b4",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001237341",
+  "operating_system": "android"
+}, {
+  "user_id": "87f1d4d4a6d3a6d3b4",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001236248",
+  "operating_system": "android"
+}, {
+  "user_id": "87f1d4d4a6d3a6d3b4",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001235425",
+  "operating_system": "android"
+}, {
+  "user_id": "2e299797b0ccb0cce8",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001234171",
+  "operating_system": "android"
+}, {
+  "user_id": "3103a3a3c1eec1eeb3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001233928",
+  "operating_system": "android"
+}, {
+  "user_id": "3103a3a3c1eec1eeb3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001233791",
+  "operating_system": "android"
+}, {
+  "user_id": "32dda5a5a9c1a9c1ff",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001233767",
+  "operating_system": "android"
+}, {
+  "user_id": "2e299797b0ccb0cce8",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001233581",
+  "operating_system": "android"
+}, {
+  "user_id": "3103a3a3c1eec1eeb3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001233355",
+  "operating_system": "android"
+}, {
+  "user_id": "32dda5a5a9c1a9c1ff",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001232913",
+  "operating_system": "android"
+}, {
+  "user_id": "32dda5a5a9c1a9c1ff",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001232720",
+  "operating_system": "android"
+}, {
+  "user_id": "86b2e1e172ff72ffc3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001232239",
+  "operating_system": "android"
+}, {
+  "user_id": "cc95dedeef05ef05b7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001231879",
+  "operating_system": "android"
+}, {
+  "user_id": "cc95dedeef05ef05b7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001230759",
+  "operating_system": "android"
+}, {
+  "user_id": "86b2e1e172ff72ffc3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001230256",
+  "operating_system": "android"
+}, {
+  "user_id": "cc95dedeef05ef05b7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001230211",
+  "operating_system": "android"
+}, {
+  "user_id": "86b2e1e172ff72ffc3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001229585",
+  "operating_system": "android"
+}, {
+  "user_id": "EE761919C2-CC2-CFF",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001226428",
+  "operating_system": "ios"
+}, {
+  "user_id": "EE761919C2-CC2-CFF",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001225519",
+  "operating_system": "ios"
+}, {
+  "user_id": "EE761919C2-CC2-CFF",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001225326",
+  "operating_system": "ios"
+}, {
+  "user_id": "39b758584cc74cc7a0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001225186",
+  "operating_system": "android"
+}, {
+  "user_id": "bcced5d5fe20fe2077",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001224643",
+  "operating_system": "android"
+}, {
+  "user_id": "189E07070B-30B-3D1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001224380",
+  "operating_system": "ios"
+}, {
+  "user_id": "39b758584cc74cc7a0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001223248",
+  "operating_system": "android"
+}, {
+  "user_id": "39b758584cc74cc7a0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001222728",
+  "operating_system": "android"
+}, {
+  "user_id": "bd3be6e69058905834",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001222384",
+  "operating_system": "android"
+}, {
+  "user_id": "98768e8ee27de27d0d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001219417",
+  "operating_system": "android"
+}, {
+  "user_id": "554f2121078e078e41",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001218469",
+  "operating_system": "android"
+}, {
+  "user_id": "98768e8ee27de27d0d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001218050",
+  "operating_system": "android"
+}, {
+  "user_id": "b81319196655665575",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001216497",
+  "operating_system": "android"
+}, {
+  "user_id": "b46a0808089808986b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001216119",
+  "operating_system": "android"
+}, {
+  "user_id": "b46a0808089808986b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001215819",
+  "operating_system": "android"
+}, {
+  "user_id": "cdce0707222c222cbb",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001215492",
+  "operating_system": "android"
+}, {
+  "user_id": "b81319196655665575",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001214992",
+  "operating_system": "android"
+}, {
+  "user_id": "554f2121078e078e41",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001213697",
+  "operating_system": "android"
+}, {
+  "user_id": "b81319196655665575",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001213670",
+  "operating_system": "android"
+}, {
+  "user_id": "3ddabebe1fa61fa6d6",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001211879",
+  "operating_system": "android"
+}, {
+  "user_id": "3ddabebe1fa61fa6d6",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001211386",
+  "operating_system": "android"
+}, {
+  "user_id": "3ddabebe1fa61fa6d6",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001210151",
+  "operating_system": "android"
+}, {
+  "user_id": "5764cece9417941746",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001208202",
+  "operating_system": "android"
+}, {
+  "user_id": "5764cece9417941746",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001206786",
+  "operating_system": "android"
+}, {
+  "user_id": "5764cece9417941746",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001204807",
+  "operating_system": "android"
+}, {
+  "user_id": "75faacac548e548e23",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001204280",
+  "operating_system": "android"
+}, {
+  "user_id": "75faacac548e548e23",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001198247",
+  "operating_system": "android"
+}, {
+  "user_id": "75faacac548e548e23",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001195599",
+  "operating_system": "android"
+}, {
+  "user_id": "09239999795579555c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001194325",
+  "operating_system": "android"
+}, {
+  "user_id": "b0e0b9b9a292a2927a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001194234",
+  "operating_system": "android"
+}, {
+  "user_id": "b0e0b9b9a292a2927a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001194023",
+  "operating_system": "android"
+}, {
+  "user_id": "09239999795579555c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001193530",
+  "operating_system": "android"
+}, {
+  "user_id": "09239999795579555c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001193439",
+  "operating_system": "android"
+}, {
+  "user_id": "b0e0b9b9a292a2927a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001192633",
+  "operating_system": "android"
+}, {
+  "user_id": "cdce0707222c222cbb",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001189388",
+  "operating_system": "android"
+}, {
+  "user_id": "fd804949bb54bb5450",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001188214",
+  "operating_system": "android"
+}, {
+  "user_id": "e39a0303c461c4613d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001187860",
+  "operating_system": "android"
+}, {
+  "user_id": "e39a0303c461c4613d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001186351",
+  "operating_system": "android"
+}, {
+  "user_id": "21a1b8b8bf86bf8680",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001184132",
+  "operating_system": "android"
+}, {
+  "user_id": "c365b3b3c53ac53afb",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001183848",
+  "operating_system": "android"
+}, {
+  "user_id": "fd804949bb54bb5450",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001183478",
+  "operating_system": "android"
+}, {
+  "user_id": "fd804949bb54bb5450",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001183126",
+  "operating_system": "android"
+}, {
+  "user_id": "b0d95a5aff5eff5e44",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001182242",
+  "operating_system": "android"
+}, {
+  "user_id": "c365b3b3c53ac53afb",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001181549",
+  "operating_system": "android"
+}, {
+  "user_id": "cdce0707222c222cbb",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001181509",
+  "operating_system": "android"
+}, {
+  "user_id": "c365b3b3c53ac53afb",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001181071",
+  "operating_system": "android"
+}, {
+  "user_id": "b1ea9696d026d0265d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001181017",
+  "operating_system": "android"
+}, {
+  "user_id": "f7eb8080208320834e",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001178799",
+  "operating_system": "android"
+}, {
+  "user_id": "f7eb8080208320834e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001178528",
+  "operating_system": "android"
+}, {
+  "user_id": "f7eb8080208320834e",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001175863",
+  "operating_system": "android"
+}, {
+  "user_id": "8eadbaba867d867dbf",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001172172",
+  "operating_system": "android"
+}, {
+  "user_id": "63b450500e470e470c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001171709",
+  "operating_system": "android"
+}, {
+  "user_id": "8eadbaba867d867dbf",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001171448",
+  "operating_system": "android"
+}, {
+  "user_id": "8eadbaba867d867dbf",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001171237",
+  "operating_system": "android"
+}, {
+  "user_id": "63b450500e470e470c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001169928",
+  "operating_system": "android"
+}, {
+  "user_id": "e39a0303c461c4613d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001169847",
+  "operating_system": "android"
+}, {
+  "user_id": "f1bcd2d2b22bb22b7f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001169312",
+  "operating_system": "android"
+}, {
+  "user_id": "63b450500e470e470c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001168982",
+  "operating_system": "android"
+}, {
+  "user_id": "f1bcd2d2b22bb22b7f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001168446",
+  "operating_system": "android"
+}, {
+  "user_id": "f1bcd2d2b22bb22b7f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001166090",
+  "operating_system": "android"
+}, {
+  "user_id": "5f2d969615ec15ec3c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001164390",
+  "operating_system": "android"
+}, {
+  "user_id": "5f2d969615ec15ec3c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001164075",
+  "operating_system": "android"
+}, {
+  "user_id": "fc6ef1f174447444cf",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001162306",
+  "operating_system": "android"
+}, {
+  "user_id": "1b8ac7c7687b687bb4",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001162156",
+  "operating_system": "android"
+}, {
+  "user_id": "c12b9e9edfc1dfc12a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001161518",
+  "operating_system": "android"
+}, {
+  "user_id": "fc6ef1f174447444cf",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001160320",
+  "operating_system": "android"
+}, {
+  "user_id": "c12b9e9edfc1dfc12a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001159920",
+  "operating_system": "android"
+}, {
+  "user_id": "808c5c5cd57fd57fe3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001159316",
+  "operating_system": "android"
+}, {
+  "user_id": "c12b9e9edfc1dfc12a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001159020",
+  "operating_system": "android"
+}, {
+  "user_id": "fc6ef1f174447444cf",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001158408",
+  "operating_system": "android"
+}, {
+  "user_id": "5e187070dfd1dfd17c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001157895",
+  "operating_system": "android"
+}, {
+  "user_id": "808c5c5cd57fd57fe3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001157231",
+  "operating_system": "android"
+}, {
+  "user_id": "0a4607075a6c5a6c00",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001156527",
+  "operating_system": "android"
+}, {
+  "user_id": "5e187070dfd1dfd17c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001156292",
+  "operating_system": "android"
+}, {
+  "user_id": "808c5c5cd57fd57fe3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001155475",
+  "operating_system": "android"
+}, {
+  "user_id": "5e187070dfd1dfd17c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001154857",
+  "operating_system": "android"
+}, {
+  "user_id": "3d9309093dbc3dbc83",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001150909",
+  "operating_system": "android"
+}, {
+  "user_id": "367b4d4d92e392e361",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001150613",
+  "operating_system": "android"
+}, {
+  "user_id": "3d9309093dbc3dbc83",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001150502",
+  "operating_system": "android"
+}, {
+  "user_id": "3d9309093dbc3dbc83",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001150169",
+  "operating_system": "android"
+}, {
+  "user_id": "367b4d4d92e392e361",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001149899",
+  "operating_system": "android"
+}, {
+  "user_id": "367b4d4d92e392e361",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001148319",
+  "operating_system": "android"
+}, {
+  "user_id": "4474b9b91069106951",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001146047",
+  "operating_system": "android"
+}, {
+  "user_id": "75ed0d0df13af13a13",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001145511",
+  "operating_system": "android"
+}, {
+  "user_id": "14d2fbfb410b410bd1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001145064",
+  "operating_system": "android"
+}, {
+  "user_id": "14d2fbfb410b410bd1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001144442",
+  "operating_system": "android"
+}, {
+  "user_id": "de1e88883bc33bc305",
+  "event_name": "purchase",
+  "event_date": "2024-07-14",
+  "event_time": "1721001140918",
+  "operating_system": "android"
+}, {
+  "user_id": "14FD9999FF-2FF-2F7",
+  "event_name": "purchase",
+  "event_date": "2024-07-14",
+  "event_time": "1721001140566",
+  "operating_system": "ios"
+}, {
+  "user_id": "75ed0d0df13af13a13",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001140555",
+  "operating_system": "android"
+}, {
+  "user_id": "75ed0d0df13af13a13",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001140479",
+  "operating_system": "android"
+}, {
+  "user_id": "14d2fbfb410b410bd1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001137592",
+  "operating_system": "android"
+}, {
+  "user_id": "04de6d6d735d735d02",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001135401",
+  "operating_system": "android"
+}, {
+  "user_id": "71E0FCFC71-671-6D2",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001130004",
+  "operating_system": "ios"
+}, {
+  "user_id": "71E0FCFC71-671-6D2",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001129115",
+  "operating_system": "ios"
+}, {
+  "user_id": "71E0FCFC71-671-6D2",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001129013",
+  "operating_system": "ios"
+}, {
+  "user_id": "b51d575737753775ea",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001127121",
+  "operating_system": "android"
+}, {
+  "user_id": "b51d575737753775ea",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001126293",
+  "operating_system": "android"
+}, {
+  "user_id": "08883f3f631563150a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001125297",
+  "operating_system": "android"
+}, {
+  "user_id": "b51d575737753775ea",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001124290",
+  "operating_system": "android"
+}, {
+  "user_id": "08883f3f631563150a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001124281",
+  "operating_system": "android"
+}, {
+  "user_id": "08883f3f631563150a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001123740",
+  "operating_system": "android"
+}, {
+  "user_id": "0a4607075a6c5a6c00",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001123179",
+  "operating_system": "android"
+}, {
+  "user_id": "22ef7474ef4cef4cc7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001119942",
+  "operating_system": "android"
+}, {
+  "user_id": "BF563A3AD5-2D5-2C7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001118836",
+  "operating_system": "ios"
+}, {
+  "user_id": "1c628e8eb3a9b3a989",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001118233",
+  "operating_system": "android"
+}, {
+  "user_id": "BF563A3AD5-2D5-2C7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001118168",
+  "operating_system": "ios"
+}, {
+  "user_id": "BF563A3AD5-2D5-2C7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001118086",
+  "operating_system": "ios"
+}, {
+  "user_id": "8c3976762c7f2c7f09",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001118070",
+  "operating_system": "android"
+}, {
+  "user_id": "d6df3434d1d3d1d3aa",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001117132",
+  "operating_system": "android"
+}, {
+  "user_id": "22ef7474ef4cef4cc7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001116893",
+  "operating_system": "android"
+}, {
+  "user_id": "38ea31314629462980",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001116369",
+  "operating_system": "android"
+}, {
+  "user_id": "22ef7474ef4cef4cc7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001115757",
+  "operating_system": "android"
+}, {
+  "user_id": "1c628e8eb3a9b3a989",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001113412",
+  "operating_system": "android"
+}, {
+  "user_id": "1c628e8eb3a9b3a989",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001113186",
+  "operating_system": "android"
+}, {
+  "user_id": "38ea31314629462980",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001112603",
+  "operating_system": "android"
+}, {
+  "user_id": "f42e3737fd93fd93dd",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001112155",
+  "operating_system": "android"
+}, {
+  "user_id": "49fc3a3ab0b9b0b96f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001111711",
+  "operating_system": "android"
+}, {
+  "user_id": "49fc3a3ab0b9b0b96f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001111311",
+  "operating_system": "android"
+}, {
+  "user_id": "38ea31314629462980",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001111218",
+  "operating_system": "android"
+}, {
+  "user_id": "14FD9999FF-2FF-2F7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001108790",
+  "operating_system": "ios"
+}, {
+  "user_id": "9b140606fd5dfd5d38",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001108209",
+  "operating_system": "android"
+}, {
+  "user_id": "9b140606fd5dfd5d38",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001106754",
+  "operating_system": "android"
+}, {
+  "user_id": "9b140606fd5dfd5d38",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001106384",
+  "operating_system": "android"
+}, {
+  "user_id": "13CDF9F9C4-EC4-E6E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001106315",
+  "operating_system": "ios"
+}, {
+  "user_id": "2706A2A252-E52-E4E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001106169",
+  "operating_system": "ios"
+}, {
+  "user_id": "2706A2A252-E52-E4E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001105924",
+  "operating_system": "ios"
+}, {
+  "user_id": "2706A2A252-E52-E4E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001105743",
+  "operating_system": "ios"
+}, {
+  "user_id": "13CDF9F9C4-EC4-E6E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001105699",
+  "operating_system": "ios"
+}, {
+  "user_id": "13CDF9F9C4-EC4-E6E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001104793",
+  "operating_system": "ios"
+}, {
+  "user_id": "14FD9999FF-2FF-2F7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001104451",
+  "operating_system": "ios"
+}, {
+  "user_id": "14FD9999FF-2FF-2F7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001103794",
+  "operating_system": "ios"
+}, {
+  "user_id": "26a77070b2c2b2c2d3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001102900",
+  "operating_system": "android"
+}, {
+  "user_id": "49fc3a3ab0b9b0b96f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001102575",
+  "operating_system": "android"
+}, {
+  "user_id": "2b0964649600960050",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001101278",
+  "operating_system": "android"
+}, {
+  "user_id": "bc686e6e3477347710",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001100373",
+  "operating_system": "android"
+}, {
+  "user_id": "26a77070b2c2b2c2d3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001099535",
+  "operating_system": "android"
+}, {
+  "user_id": "4874f5f551bc51bca8",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001098948",
+  "operating_system": "android"
+}, {
+  "user_id": "26a77070b2c2b2c2d3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001097795",
+  "operating_system": "android"
+}, {
+  "user_id": "4874f5f551bc51bca8",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001097556",
+  "operating_system": "android"
+}, {
+  "user_id": "8bea141457e757e70d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001097152",
+  "operating_system": "android"
+}, {
+  "user_id": "A13AC5C59D-29D-27E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001096663",
+  "operating_system": "ios"
+}, {
+  "user_id": "8bea141457e757e70d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001096171",
+  "operating_system": "android"
+}, {
+  "user_id": "8bea141457e757e70d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001095922",
+  "operating_system": "android"
+}, {
+  "user_id": "EB635C5C4B-84B-8EE",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001095794",
+  "operating_system": "ios"
+}, {
+  "user_id": "2734f9f91b841b8426",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001095402",
+  "operating_system": "android"
+}, {
+  "user_id": "284e0f0fbe52be5231",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001094910",
+  "operating_system": "android"
+}, {
+  "user_id": "EB635C5C4B-84B-8EE",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001094654",
+  "operating_system": "ios"
+}, {
+  "user_id": "EB635C5C4B-84B-8EE",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001094592",
+  "operating_system": "ios"
+}, {
+  "user_id": "66273333c13ac13a14",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001094251",
+  "operating_system": "android"
+}, {
+  "user_id": "284e0f0fbe52be5231",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001094038",
+  "operating_system": "android"
+}, {
+  "user_id": "7f59cccc5d215d214c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001093287",
+  "operating_system": "android"
+}, {
+  "user_id": "66273333c13ac13a14",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001092080",
+  "operating_system": "android"
+}, {
+  "user_id": "7f59cccc5d215d214c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001091365",
+  "operating_system": "android"
+}, {
+  "user_id": "66273333c13ac13a14",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001091230",
+  "operating_system": "android"
+}, {
+  "user_id": "7f59cccc5d215d214c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001091166",
+  "operating_system": "android"
+}, {
+  "user_id": "7d1eeeee383c383c2b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001090452",
+  "operating_system": "android"
+}, {
+  "user_id": "284e0f0fbe52be5231",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001089902",
+  "operating_system": "android"
+}, {
+  "user_id": "4874f5f551bc51bca8",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001088417",
+  "operating_system": "android"
+}, {
+  "user_id": "e8e05050b7a0b7a0ab",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001085970",
+  "operating_system": "android"
+}, {
+  "user_id": "5b24f8f806e706e7ad",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001085887",
+  "operating_system": "android"
+}, {
+  "user_id": "e8e05050b7a0b7a0ab",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001085425",
+  "operating_system": "android"
+}, {
+  "user_id": "5b24f8f806e706e7ad",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001085145",
+  "operating_system": "android"
+}, {
+  "user_id": "5b24f8f806e706e7ad",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001084602",
+  "operating_system": "android"
+}, {
+  "user_id": "0a4607075a6c5a6c00",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001084487",
+  "operating_system": "android"
+}, {
+  "user_id": "600f88885e205e205d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001081192",
+  "operating_system": "android"
+}, {
+  "user_id": "640c4a4afcbafcba2c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001080622",
+  "operating_system": "android"
+}, {
+  "user_id": "13b4eaea74d474d403",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001080460",
+  "operating_system": "android"
+}, {
+  "user_id": "b6a46161df84df8448",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001080038",
+  "operating_system": "android"
+}, {
+  "user_id": "b6a46161df84df8448",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001079567",
+  "operating_system": "android"
+}, {
+  "user_id": "b6a46161df84df8448",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001079454",
+  "operating_system": "android"
+}, {
+  "user_id": "bc686e6e3477347710",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001078984",
+  "operating_system": "android"
+}, {
+  "user_id": "13b4eaea74d474d403",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001078915",
+  "operating_system": "android"
+}, {
+  "user_id": "600f88885e205e205d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001077617",
+  "operating_system": "android"
+}, {
+  "user_id": "379f5e5e706b706bab",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001077527",
+  "operating_system": "android"
+}, {
+  "user_id": "13b4eaea74d474d403",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001076719",
+  "operating_system": "android"
+}, {
+  "user_id": "600f88885e205e205d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001076592",
+  "operating_system": "android"
+}, {
+  "user_id": "379f5e5e706b706bab",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001076381",
+  "operating_system": "android"
+}, {
+  "user_id": "379f5e5e706b706bab",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001076301",
+  "operating_system": "android"
+}, {
+  "user_id": "933660606681668141",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001076072",
+  "operating_system": "android"
+}, {
+  "user_id": "933660606681668141",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001075177",
+  "operating_system": "android"
+}, {
+  "user_id": "933660606681668141",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001075028",
+  "operating_system": "android"
+}, {
+  "user_id": "b97d1e1e08d608d6e9",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001074910",
+  "operating_system": "android"
+}, {
+  "user_id": "640c4a4afcbafcba2c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001074434",
+  "operating_system": "android"
+}, {
+  "user_id": "b97d1e1e08d608d6e9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001073492",
+  "operating_system": "android"
+}, {
+  "user_id": "b97d1e1e08d608d6e9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001072854",
+  "operating_system": "android"
+}, {
+  "user_id": "640c4a4afcbafcba2c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001072091",
+  "operating_system": "android"
+}, {
+  "user_id": "bc686e6e3477347710",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001069894",
+  "operating_system": "android"
+}, {
+  "user_id": "7d1eeeee383c383c2b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001069607",
+  "operating_system": "android"
+}, {
+  "user_id": "b1f550500c940c9436",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001066930",
+  "operating_system": "android"
+}, {
+  "user_id": "b1f550500c940c9436",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001065844",
+  "operating_system": "android"
+}, {
+  "user_id": "b1f550500c940c9436",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001065427",
+  "operating_system": "android"
+}, {
+  "user_id": "a3b9d7d70f060f06f3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001064397",
+  "operating_system": "android"
+}, {
+  "user_id": "0e734d4d943b943b0b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001063534",
+  "operating_system": "android"
+}, {
+  "user_id": "0e734d4d943b943b0b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001063430",
+  "operating_system": "android"
+}, {
+  "user_id": "9895FEFE39-439-443",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001062903",
+  "operating_system": "ios"
+}, {
+  "user_id": "a3b9d7d70f060f06f3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001062623",
+  "operating_system": "android"
+}, {
+  "user_id": "a3b9d7d70f060f06f3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001062507",
+  "operating_system": "android"
+}, {
+  "user_id": "9895FEFE39-439-443",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001062159",
+  "operating_system": "ios"
+}, {
+  "user_id": "9895FEFE39-439-443",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001062120",
+  "operating_system": "ios"
+}, {
+  "user_id": "0e734d4d943b943b0b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001061435",
+  "operating_system": "android"
+}, {
+  "user_id": "a8d521219fa59fa5de",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001060190",
+  "operating_system": "android"
+}, {
+  "user_id": "6deec2c28904890441",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001059867",
+  "operating_system": "android"
+}, {
+  "user_id": "8e490a0a152c152c4d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001059785",
+  "operating_system": "android"
+}, {
+  "user_id": "6c62515101c201c22e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001059075",
+  "operating_system": "android"
+}, {
+  "user_id": "8e490a0a152c152c4d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001058559",
+  "operating_system": "android"
+}, {
+  "user_id": "f7f2d7d75a9b5a9b61",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001057981",
+  "operating_system": "android"
+}, {
+  "user_id": "2d160d0daeb2aeb23e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001057682",
+  "operating_system": "android"
+}, {
+  "user_id": "8e490a0a152c152c4d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001057017",
+  "operating_system": "android"
+}, {
+  "user_id": "f8782a2acdc6cdc67a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001055640",
+  "operating_system": "android"
+}, {
+  "user_id": "f7f2d7d75a9b5a9b61",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001055581",
+  "operating_system": "android"
+}, {
+  "user_id": "6deec2c28904890441",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001055412",
+  "operating_system": "android"
+}, {
+  "user_id": "6c62515101c201c22e",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001055170",
+  "operating_system": "android"
+}, {
+  "user_id": "f7f2d7d75a9b5a9b61",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001055104",
+  "operating_system": "android"
+}, {
+  "user_id": "6deec2c28904890441",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001054868",
+  "operating_system": "android"
+}, {
+  "user_id": "ac0440404e3d4e3db8",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001053608",
+  "operating_system": "android"
+}, {
+  "user_id": "2d160d0daeb2aeb23e",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001053513",
+  "operating_system": "android"
+}, {
+  "user_id": "f3692727f7ddf7dd37",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001052380",
+  "operating_system": "android"
+}, {
+  "user_id": "f3692727f7ddf7dd37",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001051990",
+  "operating_system": "android"
+}, {
+  "user_id": "b82b74745d2e5d2e94",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001051147",
+  "operating_system": "android"
+}, {
+  "user_id": "2d160d0daeb2aeb23e",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001050693",
+  "operating_system": "android"
+}, {
+  "user_id": "ac508787f7dbf7db10",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001050144",
+  "operating_system": "android"
+}, {
+  "user_id": "ac508787f7dbf7db10",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001049847",
+  "operating_system": "android"
+}, {
+  "user_id": "ac508787f7dbf7db10",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001047402",
+  "operating_system": "android"
+}, {
+  "user_id": "f11a171737f337f345",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001046186",
+  "operating_system": "android"
+}, {
+  "user_id": "b82b74745d2e5d2e94",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001046182",
+  "operating_system": "android"
+}, {
+  "user_id": "b82b74745d2e5d2e94",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001043748",
+  "operating_system": "android"
+}, {
+  "user_id": "e2291c1cd5b8d5b8cd",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001041237",
+  "operating_system": "android"
+}, {
+  "user_id": "e2291c1cd5b8d5b8cd",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001039826",
+  "operating_system": "android"
+}, {
+  "user_id": "e2291c1cd5b8d5b8cd",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001039472",
+  "operating_system": "android"
+}, {
+  "user_id": "bcced5d5fe20fe2077",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001039155",
+  "operating_system": "android"
+}, {
+  "user_id": "9fbcd9d91426142656",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001036605",
+  "operating_system": "android"
+}, {
+  "user_id": "236bb1b12a7b2a7bbc",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001035292",
+  "operating_system": "android"
+}, {
+  "user_id": "9fbcd9d91426142656",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001034592",
+  "operating_system": "android"
+}, {
+  "user_id": "7b55efef0d5b0d5b5f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001034183",
+  "operating_system": "android"
+}, {
+  "user_id": "de1e88883bc33bc305",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001032857",
+  "operating_system": "android"
+}, {
+  "user_id": "de1e88883bc33bc305",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001031601",
+  "operating_system": "android"
+}, {
+  "user_id": "9fbcd9d91426142656",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001031581",
+  "operating_system": "android"
+}, {
+  "user_id": "de1e88883bc33bc305",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001030766",
+  "operating_system": "android"
+}, {
+  "user_id": "7b55efef0d5b0d5b5f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001029278",
+  "operating_system": "android"
+}, {
+  "user_id": "7b55efef0d5b0d5b5f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001025893",
+  "operating_system": "android"
+}, {
+  "user_id": "1F361212F8-CF8-C7E",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001024190",
+  "operating_system": "ios"
+}, {
+  "user_id": "1F361212F8-CF8-C7E",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001023024",
+  "operating_system": "ios"
+}, {
+  "user_id": "1F361212F8-CF8-C7E",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001022146",
+  "operating_system": "ios"
+}, {
+  "user_id": "6ef1acacf885f885cf",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001019981",
+  "operating_system": "android"
+}, {
+  "user_id": "6ef1acacf885f885cf",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001018741",
+  "operating_system": "android"
+}, {
+  "user_id": "6ef1acacf885f885cf",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001018550",
+  "operating_system": "android"
+}, {
+  "user_id": "ac8ec8c830d030d0d1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001018200",
+  "operating_system": "android"
+}, {
+  "user_id": "4dae81814a7b4a7bb4",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001015346",
+  "operating_system": "android"
+}, {
+  "user_id": "2ba6cacafe55fe554f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001015130",
+  "operating_system": "android"
+}, {
+  "user_id": "2ba6cacafe55fe554f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001014822",
+  "operating_system": "android"
+}, {
+  "user_id": "b995fafa20e020e04b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001014113",
+  "operating_system": "android"
+}, {
+  "user_id": "1939d9d983bc83bc89",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001013155",
+  "operating_system": "android"
+}, {
+  "user_id": "2ba6cacafe55fe554f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001012757",
+  "operating_system": "android"
+}, {
+  "user_id": "b995fafa20e020e04b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001012381",
+  "operating_system": "android"
+}, {
+  "user_id": "ac8ec8c830d030d0d1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001012007",
+  "operating_system": "android"
+}, {
+  "user_id": "b995fafa20e020e04b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001011767",
+  "operating_system": "android"
+}, {
+  "user_id": "809057579e419e41d9",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001011165",
+  "operating_system": "android"
+}, {
+  "user_id": "18ea515119361936c7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001011103",
+  "operating_system": "android"
+}, {
+  "user_id": "4dae81814a7b4a7bb4",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001010538",
+  "operating_system": "android"
+}, {
+  "user_id": "4dae81814a7b4a7bb4",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001010262",
+  "operating_system": "android"
+}, {
+  "user_id": "f0564545a8baa8bac1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001009209",
+  "operating_system": "android"
+}, {
+  "user_id": "18ea515119361936c7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001008802",
+  "operating_system": "android"
+}, {
+  "user_id": "ac8ec8c830d030d0d1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001008273",
+  "operating_system": "android"
+}, {
+  "user_id": "1939d9d983bc83bc89",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001008026",
+  "operating_system": "android"
+}, {
+  "user_id": "f0564545a8baa8bac1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001007840",
+  "operating_system": "android"
+}, {
+  "user_id": "1939d9d983bc83bc89",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001006375",
+  "operating_system": "android"
+}, {
+  "user_id": "7745caca1510151096",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001006141",
+  "operating_system": "android"
+}, {
+  "user_id": "18ea515119361936c7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001004055",
+  "operating_system": "android"
+}, {
+  "user_id": "c2ba2525c297c297a8",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001001596",
+  "operating_system": "android"
+}, {
+  "user_id": "7745caca1510151096",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721001001461",
+  "operating_system": "android"
+}, {
+  "user_id": "7745caca1510151096",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001001070",
+  "operating_system": "android"
+}, {
+  "user_id": "c2ba2525c297c297a8",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001000956",
+  "operating_system": "android"
+}, {
+  "user_id": "c2ba2525c297c297a8",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721001000568",
+  "operating_system": "android"
+}, {
+  "user_id": "809057579e419e41d9",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000999085",
+  "operating_system": "android"
+}, {
+  "user_id": "B6144949AC-BAC-B02",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000998067",
+  "operating_system": "ios"
+}, {
+  "user_id": "B6144949AC-BAC-B02",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000997798",
+  "operating_system": "ios"
+}, {
+  "user_id": "B6144949AC-BAC-B02",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000997750",
+  "operating_system": "ios"
+}, {
+  "user_id": "da13a3a3e4f5e4f582",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000997633",
+  "operating_system": "android"
+}, {
+  "user_id": "da13a3a3e4f5e4f582",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000996927",
+  "operating_system": "android"
+}, {
+  "user_id": "88e22b2b91679167a7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000996653",
+  "operating_system": "android"
+}, {
+  "user_id": "05711616dfacdfacf1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000994444",
+  "operating_system": "android"
+}, {
+  "user_id": "05711616dfacdfacf1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993904",
+  "operating_system": "android"
+}, {
+  "user_id": "a924d8d80a9a0a9ac3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993776",
+  "operating_system": "android"
+}, {
+  "user_id": "05711616dfacdfacf1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993716",
+  "operating_system": "android"
+}, {
+  "user_id": "88e22b2b91679167a7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993715",
+  "operating_system": "android"
+}, {
+  "user_id": "88e22b2b91679167a7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993520",
+  "operating_system": "android"
+}, {
+  "user_id": "a924d8d80a9a0a9ac3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993350",
+  "operating_system": "android"
+}, {
+  "user_id": "a924d8d80a9a0a9ac3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993247",
+  "operating_system": "android"
+}, {
+  "user_id": "fd7f2c2cb300b30072",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000993142",
+  "operating_system": "android"
+}, {
+  "user_id": "f42e3737fd93fd93dd",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000992959",
+  "operating_system": "android"
+}, {
+  "user_id": "f42e3737fd93fd93dd",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000992594",
+  "operating_system": "android"
+}, {
+  "user_id": "fd7f2c2cb300b30072",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000992180",
+  "operating_system": "android"
+}, {
+  "user_id": "fd7f2c2cb300b30072",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000991805",
+  "operating_system": "android"
+}, {
+  "user_id": "da13a3a3e4f5e4f582",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000990482",
+  "operating_system": "android"
+}, {
+  "user_id": "df98e4e40a610a61d0",
+  "event_name": "purchase",
+  "event_date": "2024-07-14",
+  "event_time": "1721000988885",
+  "operating_system": "android"
+}, {
+  "user_id": "2cd8d9d93384338495",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000988537",
+  "operating_system": "android"
+}, {
+  "user_id": "e75ab9b94b1f4b1f92",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000986051",
+  "operating_system": "android"
+}, {
+  "user_id": "e75ab9b94b1f4b1f92",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000985186",
+  "operating_system": "android"
+}, {
+  "user_id": "B3B540401D-E1D-E57",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000983660",
+  "operating_system": "ios"
+}, {
+  "user_id": "B3B540401D-E1D-E57",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000983505",
+  "operating_system": "ios"
+}, {
+  "user_id": "B3B540401D-E1D-E57",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000983467",
+  "operating_system": "ios"
+}, {
+  "user_id": "e75ab9b94b1f4b1f92",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000981424",
+  "operating_system": "android"
+}, {
+  "user_id": "0787909084-D84-D24",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000978560",
+  "operating_system": "ios"
+}, {
+  "user_id": "2298dede6ca06ca067",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000977796",
+  "operating_system": "android"
+}, {
+  "user_id": "5e815a5a148f148f1d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000977510",
+  "operating_system": "android"
+}, {
+  "user_id": "980deaea188818886d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000976837",
+  "operating_system": "android"
+}, {
+  "user_id": "d6df3434d1d3d1d3aa",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000976766",
+  "operating_system": "android"
+}, {
+  "user_id": "980deaea188818886d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000975981",
+  "operating_system": "android"
+}, {
+  "user_id": "980deaea188818886d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000975795",
+  "operating_system": "android"
+}, {
+  "user_id": "8c3976762c7f2c7f09",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000975463",
+  "operating_system": "android"
+}, {
+  "user_id": "5e815a5a148f148f1d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000975285",
+  "operating_system": "android"
+}, {
+  "user_id": "5e815a5a148f148f1d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000974209",
+  "operating_system": "android"
+}, {
+  "user_id": "8c3976762c7f2c7f09",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000973922",
+  "operating_system": "android"
+}, {
+  "user_id": "0787909084-D84-D24",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000973595",
+  "operating_system": "ios"
+}, {
+  "user_id": "d6df3434d1d3d1d3aa",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000973594",
+  "operating_system": "android"
+}, {
+  "user_id": "0787909084-D84-D24",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000973530",
+  "operating_system": "ios"
+}, {
+  "user_id": "b2d5838313471347a6",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000973417",
+  "operating_system": "android"
+}, {
+  "user_id": "2298dede6ca06ca067",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000972933",
+  "operating_system": "android"
+}, {
+  "user_id": "b2d5838313471347a6",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000972713",
+  "operating_system": "android"
+}, {
+  "user_id": "2298dede6ca06ca067",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000972679",
+  "operating_system": "android"
+}, {
+  "user_id": "b2d5838313471347a6",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000969992",
+  "operating_system": "android"
+}, {
+  "user_id": "07e8ececcce7cce76a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000968899",
+  "operating_system": "android"
+}, {
+  "user_id": "07e8ececcce7cce76a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000968411",
+  "operating_system": "android"
+}, {
+  "user_id": "ca77c8c82826282688",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000967372",
+  "operating_system": "android"
+}, {
+  "user_id": "0c4705054c454c4573",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000965331",
+  "operating_system": "android"
+}, {
+  "user_id": "091b3a3ad8a3d8a3ea",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000964343",
+  "operating_system": "android"
+}, {
+  "user_id": "0c4705054c454c4573",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000963864",
+  "operating_system": "android"
+}, {
+  "user_id": "0c4705054c454c4573",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000963786",
+  "operating_system": "android"
+}, {
+  "user_id": "07e8ececcce7cce76a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000963347",
+  "operating_system": "android"
+}, {
+  "user_id": "091b3a3ad8a3d8a3ea",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000963303",
+  "operating_system": "android"
+}, {
+  "user_id": "091b3a3ad8a3d8a3ea",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000962943",
+  "operating_system": "android"
+}, {
+  "user_id": "815ee5e5acebaceb4e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000961861",
+  "operating_system": "android"
+}, {
+  "user_id": "a4182b2ba1f8a1f800",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000955872",
+  "operating_system": "android"
+}, {
+  "user_id": "a4182b2ba1f8a1f800",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000955415",
+  "operating_system": "android"
+}, {
+  "user_id": "a4182b2ba1f8a1f800",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000955319",
+  "operating_system": "android"
+}, {
+  "user_id": "22a96969625c625c18",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000950157",
+  "operating_system": "android"
+}, {
+  "user_id": "22a96969625c625c18",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000948153",
+  "operating_system": "android"
+}, {
+  "user_id": "22a96969625c625c18",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000947876",
+  "operating_system": "android"
+}, {
+  "user_id": "b761d7d74fd24fd22b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000946263",
+  "operating_system": "android"
+}, {
+  "user_id": "2f91e7e751365136a0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000943658",
+  "operating_system": "android"
+}, {
+  "user_id": "DDB357572A-02A-09F",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000942303",
+  "operating_system": "ios"
+}, {
+  "user_id": "2f91e7e751365136a0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000939241",
+  "operating_system": "android"
+}, {
+  "user_id": "DDB357572A-02A-09F",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000936604",
+  "operating_system": "ios"
+}, {
+  "user_id": "DDB357572A-02A-09F",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000935694",
+  "operating_system": "ios"
+}, {
+  "user_id": "a75e63636763676317",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000935583",
+  "operating_system": "android"
+}, {
+  "user_id": "2f91e7e751365136a0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000934931",
+  "operating_system": "android"
+}, {
+  "user_id": "64470202c7e1c7e198",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000934415",
+  "operating_system": "android"
+}, {
+  "user_id": "145d3737ea5aea5a2b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000930779",
+  "operating_system": "android"
+}, {
+  "user_id": "64470202c7e1c7e198",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000929697",
+  "operating_system": "android"
+}, {
+  "user_id": "64470202c7e1c7e198",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000929355",
+  "operating_system": "android"
+}, {
+  "user_id": "145d3737ea5aea5a2b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000928766",
+  "operating_system": "android"
+}, {
+  "user_id": "10169a9aa348a34809",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000927938",
+  "operating_system": "android"
+}, {
+  "user_id": "145d3737ea5aea5a2b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000927766",
+  "operating_system": "android"
+}, {
+  "user_id": "10169a9aa348a34809",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000927295",
+  "operating_system": "android"
+}, {
+  "user_id": "df98e4e40a610a61d0",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000925830",
+  "operating_system": "android"
+}, {
+  "user_id": "a8d521219fa59fa5de",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000925130",
+  "operating_system": "android"
+}, {
+  "user_id": "107f4b4b1fa01fa0bf",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000923991",
+  "operating_system": "android"
+}, {
+  "user_id": "6b177c7c75ee75ee53",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000923859",
+  "operating_system": "android"
+}, {
+  "user_id": "df98e4e40a610a61d0",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000923839",
+  "operating_system": "android"
+}, {
+  "user_id": "6b177c7c75ee75ee53",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000923614",
+  "operating_system": "android"
+}, {
+  "user_id": "33578e8eefccefcc5f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000922213",
+  "operating_system": "android"
+}, {
+  "user_id": "c29f7777d217d21703",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000921822",
+  "operating_system": "android"
+}, {
+  "user_id": "df98e4e40a610a61d0",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000921738",
+  "operating_system": "android"
+}, {
+  "user_id": "c29f7777d217d21703",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000921279",
+  "operating_system": "android"
+}, {
+  "user_id": "107f4b4b1fa01fa0bf",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000921087",
+  "operating_system": "android"
+}, {
+  "user_id": "c29f7777d217d21703",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000919691",
+  "operating_system": "android"
+}, {
+  "user_id": "107f4b4b1fa01fa0bf",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000919265",
+  "operating_system": "android"
+}, {
+  "user_id": "B5BD5959F8-AF8-A58",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000919162",
+  "operating_system": "ios"
+}, {
+  "user_id": "33578e8eefccefcc5f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000919026",
+  "operating_system": "android"
+}, {
+  "user_id": "6c778888795f795f35",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000918534",
+  "operating_system": "android"
+}, {
+  "user_id": "6c778888795f795f35",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000918071",
+  "operating_system": "android"
+}, {
+  "user_id": "B5BD5959F8-AF8-A58",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000917992",
+  "operating_system": "ios"
+}, {
+  "user_id": "33578e8eefccefcc5f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000917790",
+  "operating_system": "android"
+}, {
+  "user_id": "6c778888795f795f35",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000917559",
+  "operating_system": "android"
+}, {
+  "user_id": "B5BD5959F8-AF8-A58",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000917185",
+  "operating_system": "ios"
+}, {
+  "user_id": "9e069696637b637b50",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000911252",
+  "operating_system": "android"
+}, {
+  "user_id": "9e069696637b637b50",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000910590",
+  "operating_system": "android"
+}, {
+  "user_id": "9e069696637b637b50",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000909836",
+  "operating_system": "android"
+}, {
+  "user_id": "b1f1bbbb12d012d014",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000908145",
+  "operating_system": "android"
+}, {
+  "user_id": "d2888181478a478af7",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000907618",
+  "operating_system": "android"
+}, {
+  "user_id": "b1f1bbbb12d012d014",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000905535",
+  "operating_system": "android"
+}, {
+  "user_id": "17431B1B91-E91-E29",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000904774",
+  "operating_system": "ios"
+}, {
+  "user_id": "b1f1bbbb12d012d014",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000903177",
+  "operating_system": "android"
+}, {
+  "user_id": "6E67CFCFBC-4BC-40F",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000902685",
+  "operating_system": "ios"
+}, {
+  "user_id": "17431B1B91-E91-E29",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000902215",
+  "operating_system": "ios"
+}, {
+  "user_id": "d2888181478a478af7",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000901650",
+  "operating_system": "android"
+}, {
+  "user_id": "17431B1B91-E91-E29",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000901125",
+  "operating_system": "ios"
+}, {
+  "user_id": "d2888181478a478af7",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000899392",
+  "operating_system": "android"
+}, {
+  "user_id": "1f815757a1f8a1f85f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000899364",
+  "operating_system": "android"
+}, {
+  "user_id": "1f815757a1f8a1f85f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000898603",
+  "operating_system": "android"
+}, {
+  "user_id": "6E67CFCFBC-4BC-40F",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000897723",
+  "operating_system": "ios"
+}, {
+  "user_id": "6E67CFCFBC-4BC-40F",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000897573",
+  "operating_system": "ios"
+}, {
+  "user_id": "12d0a4a499da99da2d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000896829",
+  "operating_system": "android"
+}, {
+  "user_id": "1f815757a1f8a1f85f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000895154",
+  "operating_system": "android"
+}, {
+  "user_id": "e8c5ecec6f4d6f4da1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000894915",
+  "operating_system": "android"
+}, {
+  "user_id": "e8c5ecec6f4d6f4da1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000894553",
+  "operating_system": "android"
+}, {
+  "user_id": "e8c5ecec6f4d6f4da1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000894114",
+  "operating_system": "android"
+}, {
+  "user_id": "3861D4D46A-E6A-E39",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000894078",
+  "operating_system": "ios"
+}, {
+  "user_id": "DB6F42420C-50C-5DB",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000893370",
+  "operating_system": "ios"
+}, {
+  "user_id": "6d6b12125fed5fed9b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000893312",
+  "operating_system": "android"
+}, {
+  "user_id": "DB6F42420C-50C-5DB",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000893046",
+  "operating_system": "ios"
+}, {
+  "user_id": "DB6F42420C-50C-5DB",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000892674",
+  "operating_system": "ios"
+}, {
+  "user_id": "2165c9c927e427e47a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000891706",
+  "operating_system": "android"
+}, {
+  "user_id": "6d6b12125fed5fed9b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000891233",
+  "operating_system": "android"
+}, {
+  "user_id": "6d6b12125fed5fed9b",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000891106",
+  "operating_system": "android"
+}, {
+  "user_id": "12d0a4a499da99da2d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000889399",
+  "operating_system": "android"
+}, {
+  "user_id": "f59a82828d928d922a",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000888093",
+  "operating_system": "android"
+}, {
+  "user_id": "3a6ceeeea4a4a4a40c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000887414",
+  "operating_system": "android"
+}, {
+  "user_id": "2165c9c927e427e47a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000886615",
+  "operating_system": "android"
+}, {
+  "user_id": "3a6ceeeea4a4a4a40c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000886456",
+  "operating_system": "android"
+}, {
+  "user_id": "3861D4D46A-E6A-E39",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000886175",
+  "operating_system": "ios"
+}, {
+  "user_id": "3a6ceeeea4a4a4a40c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000885906",
+  "operating_system": "android"
+}, {
+  "user_id": "86cff2f2053005300e",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000884687",
+  "operating_system": "android"
+}, {
+  "user_id": "4c36393978df78df86",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000884569",
+  "operating_system": "android"
+}, {
+  "user_id": "86cff2f2053005300e",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000884363",
+  "operating_system": "android"
+}, {
+  "user_id": "4c36393978df78df86",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000883982",
+  "operating_system": "android"
+}, {
+  "user_id": "86cff2f2053005300e",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000882377",
+  "operating_system": "android"
+}, {
+  "user_id": "1e141717ff27ff276b",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000881675",
+  "operating_system": "android"
+}, {
+  "user_id": "b81e2f2f660e660e03",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000881664",
+  "operating_system": "android"
+}, {
+  "user_id": "5f2d969615ec15ec3c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000881006",
+  "operating_system": "android"
+}, {
+  "user_id": "f59a82828d928d922a",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000879534",
+  "operating_system": "android"
+}, {
+  "user_id": "d1d399990ab70ab7ea",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000877962",
+  "operating_system": "android"
+}, {
+  "user_id": "d1d399990ab70ab7ea",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000877513",
+  "operating_system": "android"
+}, {
+  "user_id": "fbebdedeb46cb46c3c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000877302",
+  "operating_system": "android"
+}, {
+  "user_id": "f59a82828d928d922a",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000876844",
+  "operating_system": "android"
+}, {
+  "user_id": "fbebdedeb46cb46c3c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000875857",
+  "operating_system": "android"
+}, {
+  "user_id": "3F883C3CB4-CB4-C68",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000874684",
+  "operating_system": "ios"
+}, {
+  "user_id": "fbebdedeb46cb46c3c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000874638",
+  "operating_system": "android"
+}, {
+  "user_id": "3F883C3CB4-CB4-C68",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000873286",
+  "operating_system": "ios"
+}, {
+  "user_id": "3F883C3CB4-CB4-C68",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000873213",
+  "operating_system": "ios"
+}, {
+  "user_id": "8db8f1f154da54dae1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000870824",
+  "operating_system": "android"
+}, {
+  "user_id": "13f44b4bc8bec8bead",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000870240",
+  "operating_system": "android"
+}, {
+  "user_id": "13f44b4bc8bec8bead",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000868787",
+  "operating_system": "android"
+}, {
+  "user_id": "8db8f1f154da54dae1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000868292",
+  "operating_system": "android"
+}, {
+  "user_id": "19539a9ad778d7789f",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000867780",
+  "operating_system": "android"
+}, {
+  "user_id": "7d21c2c26b576b5771",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000867178",
+  "operating_system": "android"
+}, {
+  "user_id": "19539a9ad778d7789f",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000866854",
+  "operating_system": "android"
+}, {
+  "user_id": "19539a9ad778d7789f",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000866514",
+  "operating_system": "android"
+}, {
+  "user_id": "8db8f1f154da54dae1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000866392",
+  "operating_system": "android"
+}, {
+  "user_id": "13f44b4bc8bec8bead",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000865999",
+  "operating_system": "android"
+}, {
+  "user_id": "7d21c2c26b576b5771",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000865375",
+  "operating_system": "android"
+}, {
+  "user_id": "7d21c2c26b576b5771",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000864441",
+  "operating_system": "android"
+}, {
+  "user_id": "2734f9f91b841b8426",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000864296",
+  "operating_system": "android"
+}, {
+  "user_id": "2734f9f91b841b8426",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000862191",
+  "operating_system": "android"
+}, {
+  "user_id": "dd5ca3a3f7f4f7f48d",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000860513",
+  "operating_system": "android"
+}, {
+  "user_id": "dd5ca3a3f7f4f7f48d",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000858538",
+  "operating_system": "android"
+}, {
+  "user_id": "84007f7fdf0edf0e15",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000858387",
+  "operating_system": "android"
+}, {
+  "user_id": "dd5ca3a3f7f4f7f48d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000858379",
+  "operating_system": "android"
+}, {
+  "user_id": "84007f7fdf0edf0e15",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000857254",
+  "operating_system": "android"
+}, {
+  "user_id": "84007f7fdf0edf0e15",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000857130",
+  "operating_system": "android"
+}, {
+  "user_id": "79fcdbdbb1e0b1e089",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000855652",
+  "operating_system": "android"
+}, {
+  "user_id": "7dc0b4b4bc14bc1437",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000852929",
+  "operating_system": "android"
+}, {
+  "user_id": "7dc0b4b4bc14bc1437",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000851619",
+  "operating_system": "android"
+}, {
+  "user_id": "ee708585e0a0e0a068",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000851218",
+  "operating_system": "android"
+}, {
+  "user_id": "7dc0b4b4bc14bc1437",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000849931",
+  "operating_system": "android"
+}, {
+  "user_id": "0724a1a19c9e9c9e40",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000848797",
+  "operating_system": "android"
+}, {
+  "user_id": "ee708585e0a0e0a068",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000847912",
+  "operating_system": "android"
+}, {
+  "user_id": "ee708585e0a0e0a068",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000847799",
+  "operating_system": "android"
+}, {
+  "user_id": "fa3cfbfbee94ee94fc",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000845682",
+  "operating_system": "android"
+}, {
+  "user_id": "81FBE2E2D8-8D8-867",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000845582",
+  "operating_system": "ios"
+}, {
+  "user_id": "81FBE2E2D8-8D8-867",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000845394",
+  "operating_system": "ios"
+}, {
+  "user_id": "df938686ac3fac3fe3",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000845018",
+  "operating_system": "android"
+}, {
+  "user_id": "81FBE2E2D8-8D8-867",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000844881",
+  "operating_system": "ios"
+}, {
+  "user_id": "14e235353f613f6196",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000844290",
+  "operating_system": "android"
+}, {
+  "user_id": "fa3cfbfbee94ee94fc",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000844155",
+  "operating_system": "android"
+}, {
+  "user_id": "0724a1a19c9e9c9e40",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000844137",
+  "operating_system": "android"
+}, {
+  "user_id": "0724a1a19c9e9c9e40",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000843631",
+  "operating_system": "android"
+}, {
+  "user_id": "df938686ac3fac3fe3",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000843158",
+  "operating_system": "android"
+}, {
+  "user_id": "18e5a6a69501950104",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000842899",
+  "operating_system": "android"
+}, {
+  "user_id": "14e235353f613f6196",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000842230",
+  "operating_system": "android"
+}, {
+  "user_id": "df938686ac3fac3fe3",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000841339",
+  "operating_system": "android"
+}, {
+  "user_id": "14e235353f613f6196",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000839863",
+  "operating_system": "android"
+}, {
+  "user_id": "3111555574267426ba",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000837023",
+  "operating_system": "android"
+}, {
+  "user_id": "1dc976769cad9cad7b",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000836154",
+  "operating_system": "android"
+}, {
+  "user_id": "8CCE3939F0-9F0-928",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000835733",
+  "operating_system": "ios"
+}, {
+  "user_id": "8CCE3939F0-9F0-928",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000834823",
+  "operating_system": "ios"
+}, {
+  "user_id": "8CCE3939F0-9F0-928",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000834742",
+  "operating_system": "ios"
+}, {
+  "user_id": "007ed0d02b6a2b6aca",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000832537",
+  "operating_system": "android"
+}, {
+  "user_id": "007ed0d02b6a2b6aca",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000832383",
+  "operating_system": "android"
+}, {
+  "user_id": "3111555574267426ba",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000831931",
+  "operating_system": "android"
+}, {
+  "user_id": "8de53b3b599b599bed",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000829883",
+  "operating_system": "android"
+}, {
+  "user_id": "3111555574267426ba",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000829410",
+  "operating_system": "android"
+}, {
+  "user_id": "8de53b3b599b599bed",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000828664",
+  "operating_system": "android"
+}, {
+  "user_id": "8de53b3b599b599bed",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000828409",
+  "operating_system": "android"
+}, {
+  "user_id": "47446464a29ba29b4c",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000826925",
+  "operating_system": "android"
+}, {
+  "user_id": "47446464a29ba29b4c",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000826015",
+  "operating_system": "android"
+}, {
+  "user_id": "b6216969f1baf1baac",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000825311",
+  "operating_system": "android"
+}, {
+  "user_id": "FC05D9D905-005-0F1",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000823964",
+  "operating_system": "ios"
+}, {
+  "user_id": "b6216969f1baf1baac",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000823730",
+  "operating_system": "android"
+}, {
+  "user_id": "FC05D9D905-005-0F1",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000822802",
+  "operating_system": "ios"
+}, {
+  "user_id": "FC05D9D905-005-0F1",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000822728",
+  "operating_system": "ios"
+}, {
+  "user_id": "c7c500001002100239",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821802",
+  "operating_system": "android"
+}, {
+  "user_id": "147af5f54ec24ec27d",
+  "event_name": "user_data_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821714",
+  "operating_system": "android"
+}, {
+  "user_id": "68c97c7c1673167310",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821692",
+  "operating_system": "android"
+}, {
+  "user_id": "47446464a29ba29b4c",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821625",
+  "operating_system": "android"
+}, {
+  "user_id": "68c97c7c1673167310",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821603",
+  "operating_system": "android"
+}, {
+  "user_id": "bf9fe4e4903c903c41",
+  "event_name": "config_result",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821417",
+  "operating_system": "android"
+}, {
+  "user_id": "bf9fe4e4903c903c41",
+  "event_name": "app_launch",
+  "event_date": "2024-07-14",
+  "event_time": "1721000821144",
+  "operating_system": "android"
+}]
